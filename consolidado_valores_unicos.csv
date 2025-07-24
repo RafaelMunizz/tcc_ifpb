@@ -1,0 +1,535 @@
+Categoria,Valor_Unico
+Advertising,33Across
+Advertising,AcuityAds
+Advertising,AdRoll
+Advertising,Adform
+Advertising,Adverticum
+Advertising,Amazon Advertising
+Advertising,AppNexus
+Advertising,Criteo
+Advertising,DoubleClick Campaign Manager
+Advertising,DoubleClick Floodlight
+Advertising,DoubleClick for Publishers
+Advertising,DoubleVerify
+Advertising,Facebook Ads
+Advertising,Geniee
+Advertising,Google AdSense
+Advertising,Google Ads
+Advertising,Google Publisher Tag
+Advertising,GumGum
+Advertising,ID5
+Advertising,Linkedin Ads
+Advertising,MainAd
+Advertising,Marfeel
+Advertising,Microsoft Advertising
+Advertising,OpenX
+Advertising,Optimise
+Advertising,Outbrain
+Advertising,Pinterest Ads
+Advertising,Podsights
+Advertising,Prebid
+Advertising,PubMatic
+Advertising,Rakuten Advertising
+Advertising,Reddit Ads
+Advertising,Rubicon Project
+Advertising,Sharethrough
+Advertising,Sizmek
+Advertising,Smart Ad Server
+Advertising,Taboola
+Advertising,Tapad
+Advertising,Tatari
+Advertising,Teads
+Advertising,TripleLift
+Advertising,Twitter Ads
+Advertising,theTradeDesk
+Analytics,Acquia Personalization
+Analytics,Adjust
+Analytics,Adobe Analytics
+Analytics,Ahrefs
+Analytics,Albacross
+Analytics,Alexa Certified Site Metrics
+Analytics,Amplitude
+Analytics,AppDynamics
+Analytics,Appsflyer
+Analytics,Azure Monitor
+Analytics,Beusable
+Analytics,Branch
+Analytics,Braze
+Analytics,BugSnag
+Analytics,CallTrackingMetrics
+Analytics,Chartbeat
+Analytics,ClearSale
+Analytics,ClickTale
+Analytics,Cloudflare Browser Insights
+Analytics,Contentsquare
+Analytics,Crazy Egg
+Analytics,Datadog
+Analytics,Decibel
+Analytics,Demandbase
+Analytics,DoubleVerify
+Analytics,Dynatrace
+Analytics,Elastic APM
+Analytics,Everflow
+Analytics,Everviz
+Analytics,Facebook Pixel
+Analytics,FullStory
+Analytics,Google Ads Conversion Tracking
+Analytics,Google Analytics
+Analytics,Google Analytics Enhanced eCommerce
+Analytics,Hotjar
+Analytics,HubSpot Analytics
+Analytics,Instana
+Analytics,Kwai pixel
+Analytics,Leadfeeder
+Analytics,Linkedin Insight Tag
+Analytics,Loggly
+Analytics,Lucky Orange
+Analytics,Mapp
+Analytics,Marfeel
+Analytics,Matomo Analytics
+Analytics,Medallia
+Analytics,Microsoft Clarity
+Analytics,Microsoft Power BI
+Analytics,Mixpanel
+Analytics,MonsterInsights
+Analytics,Mouse Flow
+Analytics,Navegg
+Analytics,OpenPanel
+Analytics,Oracle Infinity
+Analytics,Parse.ly
+Analytics,Piano Analytics
+Analytics,Pinterest Conversion Tag
+Analytics,Piwik PRO Core
+Analytics,PixelYourSite
+Analytics,Plausible
+Analytics,Quantum Metric
+Analytics,Riskified
+Analytics,Signifyd
+Analytics,Site Kit
+Analytics,Siteimprove
+Analytics,Skai
+Analytics,Smartlook
+Analytics,Smartocto
+Analytics,Snowplow Analytics
+Analytics,TikTok Pixel
+Analytics,TrackJs
+Analytics,UserZoom
+Analytics,VWO
+Analytics,WP-Statistics
+Analytics,Yandex.Metrika
+Analytics,Zoominfo
+Analytics,comScore
+CDN,Akamai
+CDN,Amazon CloudFront
+CDN,Amazon S3
+CDN,Azion
+CDN,Azure CDN
+CDN,Bunny
+CDN,Cloudflare
+CDN,Cloudinary
+CDN,DigitalOcean Spaces
+CDN,EdgeCast
+CDN,Fastly
+CDN,GoCache
+CDN,Google Cloud CDN
+CDN,Google Hosted Libraries
+CDN,Hostinger CDN
+CDN,Imgix
+CDN,Imperva
+CDN,Microsoft Ajax Content Delivery Network
+CDN,Netlify
+CDN,Sucuri
+CDN,Unpkg
+CDN,cdnjs
+CDN,jQuery CDN
+CDN,jsDelivr
+CMS,Adobe Experience Manager
+CMS,Arc XP
+CMS,Bloomreach
+CMS,Botble CMS
+CMS,Contentful
+CMS,Cosmic
+CMS,DNN
+CMS,Drupal
+CMS,Duda
+CMS,HCL Digital Experience
+CMS,HubSpot CMS Hub
+CMS,Joomla
+CMS,Kentico CMS
+CMS,Liferay
+CMS,Magnolia CMS
+CMS,Microsoft SharePoint
+CMS,October CMS
+CMS,Optimizely Content Management
+CMS,Plone
+CMS,Prismic
+CMS,Progress Sitefinity
+CMS,SDL Tridion
+CMS,Sitecore
+CMS,Sitecore Experience Platform
+CMS,Squarespace
+CMS,Storyblok
+CMS,Strapi
+CMS,TYPO3 CMS
+CMS,Umbraco
+CMS,Wagtail
+CMS,Wix
+CMS,WordPress
+CRM,Bitrix24
+CRM,Cognigy
+CRM,Dito
+CRM,Freshworks CRM
+CRM,Hi Platform
+CRM,Salesforce
+CRM,Salesforce Desk
+CRM,Salesforce Service Cloud
+CRM,Sprinklr
+CRM,Zoho
+Databases,Firebase
+Databases,MariaDB
+Databases,MySQL
+Databases,PostgreSQL
+Databases,Redis
+Ecommerce,Amazon Webstore
+Ecommerce,Botble CMS
+Ecommerce,Cart Functionality
+Ecommerce,Dooca
+Ecommerce,Linx Commerce
+Ecommerce,Magento
+Ecommerce,Mercado Shops
+Ecommerce,Moovin
+Ecommerce,Nuvemshop
+Ecommerce,Oracle Commerce Cloud
+Ecommerce,PrestaShop
+Ecommerce,SAP Commerce Cloud
+Ecommerce,Salesforce Commerce Cloud
+Ecommerce,Shopify
+Ecommerce,Squarespace Commerce
+Ecommerce,VTEX
+Ecommerce,Webflow Ecommerce
+Ecommerce,Wix eCommerce
+Ecommerce,WooCommerce
+Ecommerce,nopCommerce
+IaaS,Amazon ECS
+IaaS,DigitalOcean Spaces
+IaaS,Google Cloud
+IaaS,Snowplow Analytics
+JavaScript frameworks,AMP
+JavaScript frameworks,Adobe Client Data Layer
+JavaScript frameworks,AlertifyJS
+JavaScript frameworks,AlloyUI
+JavaScript frameworks,Alpine.js
+JavaScript frameworks,Angular
+JavaScript frameworks,AngularJS
+JavaScript frameworks,Astro
+JavaScript frameworks,Backbone.js
+JavaScript frameworks,Emotion
+JavaScript frameworks,GSAP
+JavaScript frameworks,Gatsby
+JavaScript frameworks,Handlebars
+JavaScript frameworks,JSS
+JavaScript frameworks,Knockout.js
+JavaScript frameworks,Marionette.js
+JavaScript frameworks,MooTools
+JavaScript frameworks,Mustache
+JavaScript frameworks,Next.js
+JavaScript frameworks,Nuxt.js
+JavaScript frameworks,Prototype
+JavaScript frameworks,React
+JavaScript frameworks,React Router
+JavaScript frameworks,Redux
+JavaScript frameworks,RequireJS
+JavaScript frameworks,RxJS
+JavaScript frameworks,Socket.io
+JavaScript frameworks,Stimulus
+JavaScript frameworks,Stitches
+JavaScript frameworks,Svelte
+JavaScript frameworks,Vue.js
+JavaScript frameworks,Wink
+JavaScript frameworks,Zone.js
+JavaScript frameworks,styled-components
+JavaScript frameworks,toastr
+JavaScript libraries,AOS
+JavaScript libraries,Apollo
+JavaScript libraries,Axios
+JavaScript libraries,Boomerang
+JavaScript libraries,Bootstrap Table
+JavaScript libraries,Browser-Update.org
+JavaScript libraries,Choices
+JavaScript libraries,ClientJS
+JavaScript libraries,Clipboard.js
+JavaScript libraries,Closure Library
+JavaScript libraries,Darkmode.js
+JavaScript libraries,DataTables
+JavaScript libraries,Day.js
+JavaScript libraries,Dojo
+JavaScript libraries,Dropzone
+JavaScript libraries,Ethers
+JavaScript libraries,FancyBox
+JavaScript libraries,FilePond
+JavaScript libraries,FingerprintJS
+JavaScript libraries,Flickity
+JavaScript libraries,Glide.js
+JavaScript libraries,Glider.js
+JavaScript libraries,Goober
+JavaScript libraries,Hammer.js
+JavaScript libraries,HeadJS
+JavaScript libraries,Highlight.js
+JavaScript libraries,Howler.js
+JavaScript libraries,Htmx
+JavaScript libraries,Immutable.js
+JavaScript libraries,Instant.Page
+JavaScript libraries,Isotope
+JavaScript libraries,JSZip
+JavaScript libraries,JsObservable
+JavaScript libraries,JsRender
+JavaScript libraries,JsViews
+JavaScript libraries,Keen-Slider
+JavaScript libraries,LazySizes
+JavaScript libraries,LazySizes unveilhooks plugin
+JavaScript libraries,Lenis
+JavaScript libraries,Lightbox
+JavaScript libraries,Loadable-Components
+JavaScript libraries,Lodash
+JavaScript libraries,Lozad.js
+JavaScript libraries,Marked
+JavaScript libraries,MobX
+JavaScript libraries,Modernizr
+JavaScript libraries,Moment.js
+JavaScript libraries,NProgress
+JavaScript libraries,OWL Carousel
+JavaScript libraries,PhotoSwipe
+JavaScript libraries,Pinia
+JavaScript libraries,Polyfill
+JavaScript libraries,Preact
+JavaScript libraries,Prefix-Free
+JavaScript libraries,PubSubJS
+JavaScript libraries,Ramda
+JavaScript libraries,React Native for Web
+JavaScript libraries,Retina.js
+JavaScript libraries,ScrollMagic
+JavaScript libraries,Select2
+JavaScript libraries,Selectize
+JavaScript libraries,Skrollr
+JavaScript libraries,Slick
+JavaScript libraries,Slim Select
+JavaScript libraries,Snap.svg
+JavaScript libraries,SoundManager
+JavaScript libraries,Spin.js
+JavaScript libraries,Splide
+JavaScript libraries,SpriteSpin
+JavaScript libraries,SweetAlert
+JavaScript libraries,SweetAlert2
+JavaScript libraries,Swiffy Slider
+JavaScript libraries,Swiper
+JavaScript libraries,Tiny Slider
+JavaScript libraries,Tippy.js
+JavaScript libraries,Twitter typeahead.js
+JavaScript libraries,Underscore.js
+JavaScript libraries,Vuex
+JavaScript libraries,WookMark
+JavaScript libraries,YUI
+JavaScript libraries,Zepto
+JavaScript libraries,autoComplete.js
+JavaScript libraries,core-js
+JavaScript libraries,crypto-js
+JavaScript libraries,fullPage.js
+JavaScript libraries,jPlayer
+JavaScript libraries,jQuery
+JavaScript libraries,jQuery Migrate
+JavaScript libraries,jQuery Modal
+JavaScript libraries,jQuery UI
+JavaScript libraries,libphonenumber
+JavaScript libraries,lit-element
+JavaScript libraries,lit-html
+JavaScript libraries,lite-youtube-embed
+JavaScript libraries,mOxie
+JavaScript libraries,math.js
+JavaScript libraries,prettyPhoto
+JavaScript libraries,script.aculo.us
+JavaScript libraries,scrollreveal
+JavaScript libraries,web-vitals
+Live chat,Chaty
+Live chat,Cognigy
+Live chat,Droz Bot
+Live chat,Facebook Chat Plugin
+Live chat,GetButton
+Live chat,HubSpot Chat
+Live chat,JivoChat
+Live chat,Landbot
+Live chat,Leadster
+Live chat,LiveChat
+Live chat,LivePerson
+Live chat,Olark
+Live chat,Salesforce Service Cloud
+Live chat,Suiteshare
+Live chat,Tawk.to
+Live chat,WhatsApp Business Chat
+Live chat,Zendesk
+Live chat,Zendesk Chat
+Live chat,Zendesk Sunshine Conversations
+Live chat,iAdvize
+Live chat,yellow.ai
+Miscellaneous,Acquia Content Hub
+Miscellaneous,Azure Edge Network
+Miscellaneous,Babel
+Miscellaneous,DocuSign
+Miscellaneous,Google Cloud Storage
+Miscellaneous,Gravatar
+Miscellaneous,HTTP/2
+Miscellaneous,HTTP/3
+Miscellaneous,History
+Miscellaneous,Issuu
+Miscellaneous,K2
+Miscellaneous,Less
+Miscellaneous,Livewire
+Miscellaneous,LottieFiles
+Miscellaneous,Module Federation
+Miscellaneous,Open Graph
+Miscellaneous,Oracle Dynamic Monitoring Service
+Miscellaneous,PDF.js
+Miscellaneous,PWA
+Miscellaneous,Permutive
+Miscellaneous,Popper
+Miscellaneous,Prism
+Miscellaneous,PyScript
+Miscellaneous,RSS
+Miscellaneous,ResponsiveVoice
+Miscellaneous,SWC
+Miscellaneous,SWFObject
+Miscellaneous,ServiceNow
+Miscellaneous,SheerID
+Miscellaneous,Webpack
+Miscellaneous,parcel
+PaaS,Acquia Cloud Platform
+PaaS,Amazon Web Services
+PaaS,Atlassian Statuspage
+PaaS,Azure
+PaaS,Heroku
+PaaS,Kinsta
+PaaS,Netlify
+PaaS,Pantheon
+PaaS,Platform.sh
+PaaS,Railway
+PaaS,SiteGround
+PaaS,Vercel
+PaaS,WP Engine
+PaaS,WordPress.com
+Programming languages,Adobe Flash
+Programming languages,CFML
+Programming languages,Erlang
+Programming languages,GraphQL
+Programming languages,Java
+Programming languages,Node.js
+Programming languages,PHP
+Programming languages,Python
+Programming languages,Ruby
+Programming languages,TypeScript
+Reverse proxies,Envoy
+Reverse proxies,Nginx
+SEO,Ahrefs
+SEO,All in One SEO Pack
+SEO,RankMath SEO
+SEO,Yoast SEO
+SEO,Yoast SEO Premium
+Security,Akamai Bot Manager
+Security,Akamai Web Application Protector
+Security,Basic
+Security,Cloudflare Bot Management
+Security,Cloudflare Turnstile
+Security,DataDome
+Security,Detectify
+Security,Friendly Captcha
+Security,HSTS
+Security,Imperva
+Security,Konduto
+Security,NTLM
+Security,Riskified
+Security,Securiti
+Security,Signifyd
+Security,Sucuri
+Security,ThreatMetrix
+Security,Wordfence
+Security,hCaptcha
+Security,iThemes Security
+Security,reCAPTCHA
+Tag managers,Adobe Experience Platform Launch
+Tag managers,Ensighten
+Tag managers,Google Tag Manager
+Tag managers,Matomo Tag Manager
+Tag managers,Tealium
+UI frameworks,Angular Material
+UI frameworks,Animate.css
+UI frameworks,Ant Design
+UI frameworks,Aura
+UI frameworks,Bootstrap
+UI frameworks,Chakra UI
+UI frameworks,CivicTheme
+UI frameworks,Element UI
+UI frameworks,Flowbite
+UI frameworks,Headless UI
+UI frameworks,HeroUI
+UI frameworks,Kendo UI
+UI frameworks,MDBootstrap
+UI frameworks,MUI
+UI frameworks,Mantine
+UI frameworks,Marko
+UI frameworks,Material Design Lite
+UI frameworks,PrimeVue
+UI frameworks,Pure CSS
+UI frameworks,Radix UI
+UI frameworks,Semantic UI
+UI frameworks,Storybook
+UI frameworks,Tachyons
+UI frameworks,Tailwind CSS
+UI frameworks,UIKit
+UI frameworks,UnoCSS
+UI frameworks,Vuetify
+UI frameworks,ZURB Foundation
+UI frameworks,shadcn/ui
+Web frameworks,Adobe ColdFusion
+Web frameworks,Apache Wicket
+Web frameworks,Blazor
+Web frameworks,CakePHP
+Web frameworks,CodeIgniter
+Web frameworks,Django
+Web frameworks,Express
+Web frameworks,Fresh
+Web frameworks,Helix Ultimate
+Web frameworks,Ionic
+Web frameworks,Java Servlet
+Web frameworks,JavaServer Faces
+Web frameworks,JavaServer Pages
+Web frameworks,Laravel
+Web frameworks,Livewire
+Web frameworks,Marko
+Web frameworks,Microsoft ASP.NET
+Web frameworks,Nette Framework
+Web frameworks,Next.js
+Web frameworks,Nuxt.js
+Web frameworks,Remix
+Web frameworks,Ruby on Rails
+Web frameworks,Stencil
+Web frameworks,Yii
+Web servers,Apache HTTP Server
+Web servers,Apache Tomcat
+Web servers,Cowboy
+Web servers,Deno
+Web servers,Express
+Web servers,Fresh
+Web servers,GlassFish
+Web servers,IIS
+Web servers,Kestrel
+Web servers,LiteSpeed
+Web servers,Microsoft HTTPAPI
+Web servers,Next.js
+Web servers,Nginx
+Web servers,OpenGSE
+Web servers,OpenResty
+Web servers,Oracle WebLogic Server
+Web servers,Phusion Passenger
+Web servers,Remix
+Web servers,Tengine
+Web servers,Zope
+Web servers,gunicorn
+Web servers,lighttpd

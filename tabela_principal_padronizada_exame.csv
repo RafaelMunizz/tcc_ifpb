@@ -1,0 +1,1047 @@
+ID,EMPRESA,Setor primário,SSL/TLS enabled,Responsive
+1,ArcelorMittal Siderúrgica,"Siderurgia, Mineração e Metalurgia",True,
+2,Comexport,"Transporte, Logística e Serviços Logísticos",True,False
+3,Emae,Energia,False,True
+4,Amil,Operadoras de Planos de Saúde,True,
+5,Alfa Seguradora,Seguradoras,False,False
+6,Alibem,Alimentos e Bebidas,True,
+7,Andriello,Moda e Vestuário,False,False
+8,Banco Caixa Geral - Brasil,Bancos,True,False
+9,BNDESPar,Participações e Mídia,True,
+10,Bremil,Alimentos e Bebidas,,
+11,Copel,Energia,True,True
+12,Ebam,"Siderurgia, Mineração e Metalurgia",True,False
+13,Focus Tecnologia de Plásticos,Petróleo e Químico,True,False
+14,Hub Pagamentos,Bancos,True,True
+15,Isa CTEEP,Energia,True,False
+16,Lojas Le Biscuit,Atacado e Varejo,True,True
+17,Lupatech,Petróleo e Químico,True,True
+18,Metalfrio Solutions,Bens de Capital e Eletroeletrônicos,True,False
+19,Banco Mizuho do Brasil,Bancos,True,
+20,Montecitrus Participações,Agronegócio,False,False
+21,Pamplona,Alimentos e Bebidas,True,True
+22,São Carlos,Imobiliário e Construção Civil,True,
+23,WEG-Cestari,Bens de Capital e Eletroeletrônicos,False,True
+24,Abimex,"Transporte, Logística e Serviços Logísticos",True,True
+25,Ademicon Consórcio e Investimento,Serviços Financeiros,True,True
+26,Grupo ADN,Imobiliário e Construção Civil,True,
+27,Cereais Vale do Javaés,Agronegócio,True,
+28,Elektro - Distribuidora de Energia,Energia,True,False
+30,PBio,Energia,True,True
+31,Rede Energia,Energia,True,
+32,Neoenergia Morro do Chapéu,Energia,True,
+33,Neoenergia Brasília,Energia,True,
+34,Banco Agibank,Bancos,True,True
+35,Agora Telecom,Tecnologia e Telecomunicações,,
+36,AGP Negócios e Participações,Participações e Mídia,True,True
+37,Agrofel,Agronegócio,True,
+38,AgroGalaxy Participações,Agronegócio,True,True
+39,Agrovale,Agronegócio,True,True
+40,Alcast,"Siderurgia, Mineração e Metalurgia",,
+41,Álcool Ferreira,Agronegócio,True,
+42,Aliança Energia,Energia,True,True
+43,Allied Tecnologia,Tecnologia e Telecomunicações,True,
+44,Allos,Imobiliário e Construção Civil,True,
+46,American Life Seguros,Seguradoras,True,
+47,Alpargatas,Moda e Vestuário,True,False
+48,Althaia,Farmacêutico e Beleza,True,
+49,Ambar,Energia,True,
+50,Ambipar,Saneamento e Meio Ambiente,False,True
+51,Americanet,Tecnologia e Telecomunicações,True,
+52,Amha Saúde,Operadoras de Planos de Saúde,True,True
+53,Anaconda Farinha de Trigo,Alimentos e Bebidas,True,True
+54,Química Anastácio,Petróleo e Químico,False,True
+55,AquaRio,Participações e Mídia,True,True
+56,Arauco do Brasil,Imobiliário e Construção Civil,True,True
+57,Armac,"Transporte, Logística e Serviços Logísticos",True,
+58,Artex,"Siderurgia, Mineração e Metalurgia",True,True
+59,Artex,"Siderurgia, Mineração e Metalurgia",True,False
+60,Artplan Comunicação,Participações e Mídia,True,True
+61,Atakarejo,Atacado e Varejo,True,False
+62,Atento,Participações e Mídia,True,True
+63,Athena Saúde Brasil,Operadoras de Planos de Saúde,True,True
+64,Austin Powder,"Siderurgia, Mineração e Metalurgia",True,False
+65,Austral Seguradora,Seguradoras,,
+66,Supermercado Bahamas,Atacado e Varejo,True,True
+67,Banco Bradesco Berj,Bancos,True,True
+70,Banco Alfa,Bancos,True,False
+71,Banco B3,Bancos,True,
+72,Banco Cargill,Bancos,True,False
+73,Banco Keb Hana do Brasil,Bancos,True,True
+74,Banco Mercantil do Brasil,Bancos,True,True
+75,Banco Tricury,Bancos,True,True
+76,Grupo Bauminas,Saneamento e Meio Ambiente,True,False
+77,Brasildental,Operadoras de Planos de Saúde,True,True
+78,Belenus,Atacado e Varejo,True,True
+79,Bem Brasil Alimentos,Alimentos e Bebidas,True,
+80,Bemobi Tech,Tecnologia e Telecomunicações,False,
+81,Bianchini,Agronegócio,True,False
+82,Biomm,Farmacêutico e Beleza,True,True
+83,Cardif do Brasil,Serviços Financeiros,True,True
+84,Bank of America Merrill Lynch - Banco Múltiplo,Bancos,True,True
+85,ClearSale,Serviços Financeiros,True,True
+86,Petronas,Petróleo e Químico,False,False
+87,Tereos Açúcar & Energia,Agronegócio,True,False
+88,ICL América do Sul,Agronegócio,True,True
+89,Bradesco Saúde - Operadorade Plano de Saúde,Operadoras de Planos de Saúde,True,
+90,Anglo American Brasil,"Siderurgia, Mineração e Metalurgia",True,True
+91,Aperam Inox América do Sul,"Siderurgia, Mineração e Metalurgia",True,True
+93,Banco BNP Paribas,Bancos,True,False
+94,EDP ES,Energia,,
+95,Intercement Brasil,Imobiliário e Construção Civil,True,False
+96,Brejeiro Alimentos,Alimentos e Bebidas,,
+97,Café Cacique,Alimentos e Bebidas,,
+98,Camda,Cooperativas,True,True
+99,Cargill Agrícola,Agronegócio,True,False
+100,Cartonifício Valinhos,Papel e Celulose,True,True
+101,Cart,"Transporte, Logística e Serviços Logísticos",True,True
+102,CBD,Atacado e Varejo,True,True
+103,CBMM,"Siderurgia, Mineração e Metalurgia",False,False
+104,Cedro Têxtil,Moda e Vestuário,True,True
+105,CEEE-T,Energia,True,
+106,Cimed,Farmacêutico e Beleza,True,True
+107,Vonpar,Participações e Mídia,True,True
+108,Cocapec,Cooperativas,True,False
+109,Comigo,Cooperativas,True,True
+110,Construtora JL,Imobiliário e Construção Civil,True,True
+111,SulAmérica Seguros,Seguradoras,True,True
+112,Coopercitrus,Cooperativas,True,True
+113,Copapa,Papel e Celulose,True,True
+114,Copel Distribuição,Energia,True,True
+115,Citi,Bancos,True,True
+116,Unidas Locadora,"Transporte, Logística e Serviços Logísticos",True,True
+117,Cotrisel,Cooperativas,True,True
+118,Deutsche Bank,Bancos,True,False
+119,Cremer,Farmacêutico e Beleza,,
+120,CS Brasil,"Transporte, Logística e Serviços Logísticos",True,True
+121,CS Brasil Frotas,"Transporte, Logística e Serviços Logísticos",False,True
+122,CTC,Agronegócio,True,True
+123,Rio Paranapanema Energia - CTG,Energia,True,True
+124,Itaú Seguros Auto,Seguradoras,True,True
+125,Cury Construtora,Imobiliário e Construção Civil,True,
+126,Dasa,Saúde e Serviços de Saúde,True,
+127,Madero,Alimentos e Bebidas,True,False
+128,Transportes Della Volpe,"Transporte, Logística e Serviços Logísticos",True,True
+129,Distribuidora Curitiba,Educação,True,
+130,UBS Brasil CTVM,Serviços Financeiros,True,
+131,WEG Amazônia,Bens de Capital e Eletroeletrônicos,True,
+132,Eixo SP,"Transporte, Logística e Serviços Logísticos",True,False
+133,Elea Digital,Tecnologia e Telecomunicações,True,False
+134,Eletrobras,Energia,True,False
+135,Eletrobras Par,Energia,True,True
+136,Eletromidia,Participações e Mídia,True,True
+137,Elétron Energy,Energia,True,True
+138,Embraer,Bens de Capital e Eletroeletrônicos,True,False
+139,Emccamp,Imobiliário e Construção Civil,True,
+140,HM Engenharia,Imobiliário e Construção Civil,True,
+141,Itaú Consignado,Bancos,True,
+142,Eneva,Energia,True,False
+143,Entrevias Concessionária de Rodovias,"Transporte, Logística e Serviços Logísticos",True,False
+144,Pastifício Selmi,Alimentos e Bebidas,,
+145,Energisa Sul-Sudeste,Energia,True,False
+146,Zurich Resseguradora,Seguradoras,True,
+147,Zurich Previdência,Seguradoras,True,True
+148,Zurich Seguros,Seguradoras,True,
+149,Eurofarma,Farmacêutico e Beleza,True,False
+150,Excelsior Alimentos,Alimentos e Bebidas,True,True
+151,Fospar,Petróleo e Químico,,
+152,Banco Bradesco Financiamentos,Bancos,True,
+153,Flora,Farmacêutico e Beleza,True,True
+154,Focus Sul Tecnologia de Termoplásticos,Petróleo e Químico,True,False
+155,Companhia de Locação das Américas,"Transporte, Logística e Serviços Logísticos",True,True
+156,FTD,Educação,True,
+157,Fundação do ABC Saúde,Saúde e Serviços de Saúde,True,
+158,Fundação ABC,Agronegócio,True,True
+159,CSN Mineração,"Siderurgia, Mineração e Metalurgia",True,True
+160,Fosnor,"Siderurgia, Mineração e Metalurgia",True,True
+161,Gamaro Desenvolvimento Imobiliário,Imobiliário e Construção Civil,True,True
+162,RBS Zero Hora Editora Jornalística,Participações e Mídia,True,
+163,Editora Globo,Educação,True,False
+164,Goemil,Alimentos e Bebidas,True,False
+165,Agehab,Imobiliário e Construção Civil,True,
+166,GPC Química,Petróleo e Químico,False,False
+167,Grupo Safira,Energia,True,True
+168,Granja Faria,Alimentos e Bebidas,True,False
+169,Drogarias São Paulo Pacheco,Saúde e Serviços de Saúde,True,True
+170,Grupo Elfa,Farmacêutico e Beleza,True,True
+171,Grupo Kallas,Imobiliário e Construção Civil,False,True
+172,Oncoclínicas,Saúde e Serviços de Saúde,True,False
+173,Oncoclínicas,Saúde e Serviços de Saúde,,
+174,Salta Educação,Educação,True,
+175,Grupo Sinosserra,Atacado e Varejo,True,False
+176,Hidrovias do Brasil,"Transporte, Logística e Serviços Logísticos",True,True
+177,Instituto Sírio-Libanês,Saúde e Serviços de Saúde,True,
+178,Banco Hyundai Capital Brasil,Bancos,True,False
+179,Banco RCI Brasil,Bancos,True,True
+180,Iconic,Petróleo e Químico,,
+181,Iguá Saneamento,Saneamento e Meio Ambiente,True,True
+183,Iguatemi Shopping,Imobiliário e Construção Civil,True,
+184,Iharabras,Agronegócio,True,True
+185,Ijuí Energia,Energia,True,True
+186,Incotep,"Siderurgia, Mineração e Metalurgia",True,True
+187,Innova,Petróleo e Químico,True,True
+188,Banco Toyota do Brasil,Bancos,True,True
+189,Empresa Paulista de Televisão,Participações e Mídia,True,True
+190,Porto Seguro Seguros,Seguradoras,True,False
+191,Inter,Bancos,True,False
+192,Intral,Bens de Capital e Eletroeletrônicos,,
+193,Irani,Papel e Celulose,True,True
+194,Itacel,Papel e Celulose,True,False
+195,Itaú Consultoria Financeira,Serviços Financeiros,True,
+196,Jacto,Bens de Capital e Eletroeletrônicos,True,
+197,Josapar,Agronegócio,True,True
+198,JSL,"Transporte, Logística e Serviços Logísticos",True,True
+199,Gadkin,Alimentos e Bebidas,,
+200,Kingspan Isoeste - Construtivos Isotérmicos,"Siderurgia, Mineração e Metalurgia",True,True
+201,Klabin,Papel e Celulose,True,True
+202,Chubb Resseguradora,Seguradoras,True,False
+203,Let’s Rent A Car,"Transporte, Logística e Serviços Logísticos",True,False
+204,LM Transportes,"Transporte, Logística e Serviços Logísticos",True,True
+205,Log CP,Imobiliário e Construção Civil,,
+206,Algar Telecom,Tecnologia e Telecomunicações,True,True
+208,Electrolux,Bens de Capital e Eletroeletrônicos,True,True
+209,Granfino,Alimentos e Bebidas,True,False
+210,Mundial,Bens de Capital e Eletroeletrônicos,True,
+211,Anima,Educação,True,True
+212,Integrada,Cooperativas,True,True
+213,Luizaseg,Seguradoras,True,True
+214,Lunelli,Moda e Vestuário,True,
+215,Equatorial Maranhão Distribuidora de Energia,Energia,True,
+216,Mongeral,Seguradoras,True,
+217,Mangels,Bens de Capital e Eletroeletrônicos,True,True
+218,BB Mapfre,Seguradoras,,
+219,Mate Couro,Agronegócio,True,False
+220,M. Dias Branco,Alimentos e Bebidas,True,
+221,Liberty Seguros,Seguradoras,True,True
+222,Minerva,Alimentos e Bebidas,True,False
+223,Banco Vipal,Bancos,True,
+224,Moageira Irati,Alimentos e Bebidas,True,True
+225,Moinho Globo,Alimentos e Bebidas,True,True
+226,Nadir Figueiredo,Bens de Capital e Eletroeletrônicos,True,
+227,Nardini Agroindustrial,Agronegócio,True,True
+228,Novo Banco Continental,Bancos,True,False
+229,Neo BPO,Tecnologia e Telecomunicações,True,True
+230,Neoenergia Guanabara,Energia,True,False
+231,Neoenergia Dourados,Energia,True,False
+232,Neoenergia Renováveis,Energia,True,
+233,Neoenergia Santa Luzia,Energia,True,
+234,Neon Pagamentos,Bancos,True,True
+235,Newsul,Petróleo e Químico,True,True
+236,Moinho Paulista,Alimentos e Bebidas,True,True
+237,Noromix Concreto,Imobiliário e Construção Civil,True,True
+238,Nortec Química,Petróleo e Químico,True,True
+239,Copergás,Energia,True,True
+240,Transportadora Associada de Gás,"Transporte, Logística e Serviços Logísticos",False,False
+241,OceanPact,"Transporte, Logística e Serviços Logísticos",,
+242,Ocrim Produtos Alimentícios,Alimentos e Bebidas,True,False
+243,Marcopolo,Bens de Capital e Eletroeletrônicos,True,False
+244,UBS Brasil,Serviços Financeiros,True,False
+245,Orbitall,Tecnologia e Telecomunicações,True,False
+246,Orizon VR,Saneamento e Meio Ambiente,True,True
+248,Ouro Fino,Farmacêutico e Beleza,True,True
+249,Neoenergia Itabapoana,Energia,True,False
+250,Equatorial Pará,Energia,True,True
+251,Pacaembu Construtora,Imobiliário e Construção Civil,True,True
+252,PagBank,Serviços Financeiros,True,True
+253,Rumo Malha Paulista,"Transporte, Logística e Serviços Logísticos",True,False
+254,Panatlântica Catarinense,"Siderurgia, Mineração e Metalurgia",True,True
+255,Paraná Clínicas Plano de Saúde,Saúde e Serviços de Saúde,True,True
+256,Paraná Equipamentos,Bens de Capital e Eletroeletrônicos,True,True
+257,Petrobras,Petróleo e Químico,True,True
+258,PetroReconcavo,Petróleo e Químico,True,False
+259,Plascar,Bens de Capital e Eletroeletrônicos,True,True
+260,Raízen Centro-Sul,Energia,True,True
+261,Icatu,Seguradoras,True,True
+262,SulAmérica,Seguradoras,True,True
+263,Unimed Seguradora,Seguradoras,True,True
+264,Raízen Mime,Energia,True,False
+265,Pottencial Seguradora,Seguradoras,True,True
+266,Mataboi Alimentos,Alimentos e Bebidas,True,True
+267,Prio,Petróleo e Químico,True,True
+268,SSA,Alimentos e Bebidas,,
+269,Novelis,"Siderurgia, Mineração e Metalurgia",True,True
+270,QI Participações,Serviços Financeiros,True,True
+271,Quality Software,Tecnologia e Telecomunicações,True,False
+272,Racional Engenharia,Imobiliário e Construção Civil,True,False
+273,Hospital Meridional,Saúde e Serviços de Saúde,True,True
+274,Rede Sol,Energia,True,False
+275,Repsol Sinopec,Petróleo e Químico,,
+276,Rumo Malha Sul,"Transporte, Logística e Serviços Logísticos",True,False
+277,AES Brasil Energia,Energia,True,True
+279,Autopista Regis,"Transporte, Logística e Serviços Logísticos",,
+280,Cesp Comercializadora,Energia,True,True
+281,Brasilagro,Agronegócio,True,
+282,Celesc Geração,Energia,True,False
+283,Copel Geração e Transmissão,Energia,True,
+285,CPFL Renováveis,Energia,True,False
+286,Rio Paraná Energia,Energia,True,True
+287,Daycoval Leasing,Bancos,True,False
+288,EDP Aliança,Energia,True,False
+289,Ampla Energia,Energia,True,True
+290,Grupo SBF,Atacado e Varejo,True,True
+291,Rio Paranapanema Participações,Energia,True,True
+292,Prio Jaguar,Petróleo e Químico,True,True
+293,Raízen,Energia,True,False
+294,Rede D1000,Saúde e Serviços de Saúde,True,True
+295,Guararapes Confecções,Moda e Vestuário,False,True
+296,Sicredi Participações,Cooperativas,True,True
+298,Distribuidora Rio Branco de Petróleo,Energia,True,True
+299,RIP Serviços Industriais,Imobiliário e Construção Civil,True,True
+300,Banco Rodobens,Bancos,True,True
+301,CCR Viasul,"Transporte, Logística e Serviços Logísticos",True,
+302,Rumo Malha Central,"Transporte, Logística e Serviços Logísticos",True,True
+303,Sabin,Saúde e Serviços de Saúde,True,True
+304,Sansuy,Petróleo e Químico,True,False
+305,Santa Casa de Misericórida BH,Saúde e Serviços de Saúde,True,True
+306,SulAmérica Serviços de Saúde,Operadoras de Planos de Saúde,True,
+307,Coelce,Energia,True,False
+308,Sequoia Logística e Transportes,"Transporte, Logística e Serviços Logísticos",True,False
+309,Servgas,Energia,True,True
+310,Compesa,Saneamento e Meio Ambiente,True,
+311,Energisa,Energia,True,
+312,Coelba,Energia,True,False
+314,Afluente T,Energia,True,False
+315,Celpe,Energia,True,True
+316,Simpar,"Transporte, Logística e Serviços Logísticos",True,True
+317,Simpress,Tecnologia e Telecomunicações,True,True
+318,Accesstage Tecnologia,Tecnologia e Telecomunicações,True,True
+319,Getnet,Serviços Financeiros,True,True
+320,Multilog,"Transporte, Logística e Serviços Logísticos",True,True
+322,Plenaventura,Participações e Mídia,True,False
+323,Banco Sociéte Générale Brasil,Bancos,,
+324,Sompo Seguros,Seguradoras,True,True
+325,Sooro,Agronegócio,True,True
+326,Rumo Malha Oeste,"Transporte, Logística e Serviços Logísticos",True,False
+327,Starr,Seguradoras,True,True
+328,State Grid,Energia,True,False
+329,WEG Elétricos,Bens de Capital e Eletroeletrônicos,True,
+330,Stefanini,Tecnologia e Telecomunicações,True,False
+331,Stima Energia,Energia,True,True
+332,Suhai Seguradora,Seguradoras,True,True
+333,SulAmérica Odontológico,Operadoras de Planos de Saúde,True,
+334,Suma Brasil,Saneamento e Meio Ambiente,True,True
+335,Tambasa,Moda e Vestuário,True,False
+336,Taurus,Bens de Capital e Eletroeletrônicos,True,True
+337,Tempo Energia,Energia,True,True
+338,Timbro,Agronegócio,True,True
+339,Timenow,Imobiliário e Construção Civil,True,True
+340,Todeschini,Imobiliário e Construção Civil,,
+341,Too Seguros,Seguradoras,True,True
+342,Top Center,Imobiliário e Construção Civil,False,True
+343,Banco Investcred Unibanco,Bancos,,
+344,Transpetro,"Transporte, Logística e Serviços Logísticos",True,False
+345,Triunfo Transbrasiliana,"Transporte, Logística e Serviços Logísticos",True,True
+346,Unipar Carbocloro,Petróleo e Químico,True,False
+347,Valid,Tecnologia e Telecomunicações,True,True
+348,Vamos Locação de Caminhões,"Transporte, Logística e Serviços Logísticos",True,True
+349,Veracel Celulose,Papel e Celulose,True,True
+350,Vero,Tecnologia e Telecomunicações,True,True
+351,Vesta,Moda e Vestuário,True,True
+352,Vicunha Têxtil,Moda e Vestuário,True,False
+353,Vipal Borrachas,Petróleo e Químico,True,True
+354,Virgo,Serviços Financeiros,True,False
+355,Vittia,Agronegócio,,
+356,Vivo,Tecnologia e Telecomunicações,True,False
+357,Wiz,Seguradoras,,
+358,3tentos,Agronegócio,,
+359,Banco ABC,Bancos,True,True
+360,Banco ABN Amro,Bancos,True,True
+361,Aché,Farmacêutico e Beleza,True,True
+362,Açotubo,"Siderurgia, Mineração e Metalurgia",True,True
+363,Agência Estado,Participações e Mídia,True,False
+364,AEC,Participações e Mídia,True,True
+365,Aegea,Saneamento e Meio Ambiente,True,True
+366,Afton Chemical,Petróleo e Químico,True,False
+367,Afya,Educação,True,False
+368,Agribrasil,Agronegócio,True,True
+369,Agroscrew Participações Societárias,Participações e Mídia,True,False
+370,Viação Águia Branca,"Transporte, Logística e Serviços Logísticos",True,True
+371,AIG Seguros,Seguradoras,True,
+372,Triple Play,Participações e Mídia,True,
+373,Alelo,Serviços Financeiros,True,True
+374,Allianz Seguros,Seguradoras,True,False
+375,Allianz Saúde,Operadoras de Planos de Saúde,True,True
+376,Almaviva Telemarketing,Tecnologia e Telecomunicações,True,True
+377,Alubar,Imobiliário e Construção Civil,False,False
+378,Alumbra,Imobiliário e Construção Civil,,
+379,Alupar,Energia,True,False
+380,Amaggi,Agronegócio,True,False
+381,Ambev,Alimentos e Bebidas,True,
+382,Amstedmaxion - Fundidos Industriais,Bens de Capital e Eletroeletrônicos,False,False
+383,Banco Andbank,Bancos,True,
+384,Supermercados Archer,Atacado e Varejo,True,False
+385,Arezzo,Moda e Vestuário,True,
+386,Argo Energia,Energia,True,False
+387,Arteris,"Transporte, Logística e Serviços Logísticos",True,False
+388,Assaí Atacadista,Atacado e Varejo,True,False
+389,Assurant,Seguradoras,True,True
+390,Atacadão,Atacado e Varejo,True,True
+391,Athletico Paranaense,Participações e Mídia,True,True
+392,Austral Resseguradora,Seguradoras,True,False
+393,Azul Seguros,Seguradoras,True,
+394,B3,Serviços Financeiros,False,False
+395,Grupo Bahema,Educação,True,True
+396,Baldo,Agronegócio,,
+397,Bamaq,"Transporte, Logística e Serviços Logísticos",True,True
+398,Banco Arbi,Bancos,True,False
+399,Banco Bmg,Bancos,True,True
+400,Banco BS2,Bancos,True,
+401,Banco Guanabara,Bancos,True,False
+402,Banco Honda,Bancos,,
+403,Banco Master,Bancos,True,True
+404,Banco Mercedes-Benz do Brasil,Bancos,True,False
+405,Banco Pan,Bancos,False,False
+406,Banco Paulista,Bancos,True,False
+407,Banco PSA Finance Brasil,Bancos,True,False
+408,Banco Randon,Bancos,True,True
+409,Bancoseguro,Bancos,True,False
+410,Banco Semear,Bancos,True,True
+411,Banco Fidis,Bancos,True,True
+412,Banco Topázio,Bancos,True,False
+413,Banco XCMG,Bancos,True,True
+414,Banestes,Bancos,True,
+415,Banestes Seguros,Seguradoras,True,
+416,Banrisul Seguridade e Participações,Seguradoras,True,False
+417,Banrisul,Bancos,True,False
+418,Banrisul Administradora de Consórcios,Serviços Financeiros,False,False
+419,Banrisul Corretora de Seguros,Serviços Financeiros,True,False
+420,Basf,Petróleo e Químico,True,True
+421,Bayer,Farmacêutico e Beleza,True,True
+422,Banco do Brasil,Bancos,True,True
+423,Laboratórios B. Braun,Saúde e Serviços de Saúde,True,
+424,Banco BCV,Bancos,True,True
+425,BD Gestão de Recursos,Serviços Financeiros,True,True
+426,BSBios,Energia,True,False
+427,Belagrícola,Agronegócio,True,False
+428,Bem Promotora,Serviços Financeiros,True,False
+429,Berkley International do Brasil Seguros,Seguradoras,True,True
+430,Banco Industrial do Brasil,Bancos,True,False
+431,Blau Farmacêutica,Farmacêutico e Beleza,True,False
+432,Bluefit Academias,Saúde e Serviços de Saúde,True,True
+433,BMG Seguros,Seguradoras,True,False
+434,BNB,Bancos,True,
+435,BNY Mellon Banco,Bancos,True,True
+436,Boa Safra,Agronegócio,,
+437,Banco Bocom BBM,Bancos,True,True
+438,Bombril,Bens de Capital e Eletroeletrônicos,True,True
+439,Borealis Brasil,Petróleo e Químico,True,True
+440,O Boticário,Farmacêutico e Beleza,True,True
+441,Bozel,"Siderurgia, Mineração e Metalurgia",,
+442,BP Bunge Bioenergia,Energia,True,True
+443,Banco MUFG,Bancos,True,True
+444,ICBC do Brasil - Banco Múltiplo,Bancos,True,False
+445,Mahle,Bens de Capital e Eletroeletrônicos,True,False
+446,Scotiabank,Bancos,True,False
+447,Banco Bradescard,Bancos,True,True
+448,Banco Bradesco BBI,Bancos,True,False
+449,Bradesco Seguros,Seguradoras,True,True
+450,Brametal,"Siderurgia, Mineração e Metalurgia",True,True
+451,Braskem,Petróleo e Químico,True,False
+452,Brasoftware Informática,Tecnologia e Telecomunicações,True,False
+453,Braspress Transportes Urgentes,"Transporte, Logística e Serviços Logísticos",True,
+454,MS Bank,Bancos,True,
+455,BRF,Alimentos e Bebidas,True,False
+456,BRK Ambiental,Saneamento e Meio Ambiente,False,True
+457,Banco Ribeirão Preto,Bancos,True,False
+458,BRQ,Tecnologia e Telecomunicações,True,True
+459,BTG Pactual,Bancos,True,True
+460,Bunge,Agronegócio,True,True
+461,Burguer King,Alimentos e Bebidas,True,True
+462,Banco HSBC,Bancos,True,
+463,Banco Votorantim,Bancos,True,True
+464,Cabelauto,Bens de Capital e Eletroeletrônicos,True,True
+465,Caixa,Bancos,True,True
+466,Calçados Beira Rio,Moda e Vestuário,True,
+467,Camil,Agronegócio,True,True
+468,Cia Canoinhas,Papel e Celulose,True,True
+469,Cantu,Atacado e Varejo,True,True
+470,Caramuru Alimentos,Agronegócio,True,False
+471,Care Plus Medicina Assistencial,Operadoras de Planos de Saúde,True,True
+472,Cargill Alimentos,Alimentos e Bebidas,True,True
+473,Banco Carrefour,Bancos,True,True
+474,Casa do Pão De Queijo,Alimentos e Bebidas,False,False
+475,Casan,Saneamento e Meio Ambiente,True,False
+476,Via,Atacado e Varejo,True,True
+477,Cassems,Operadoras de Planos de Saúde,True,True
+478,Castrolanda,Cooperativas,False,True
+479,Cateno Gestão,Tecnologia e Telecomunicações,True,True
+480,Cattalini,"Transporte, Logística e Serviços Logísticos",True,False
+481,CBA,"Siderurgia, Mineração e Metalurgia",True,True
+482,Construtora Barbosa Mello,Imobiliário e Construção Civil,True,False
+483,CCR Metrô Bahia,"Transporte, Logística e Serviços Logísticos",True,False
+484,CCS Tecnologia e Serviços,"Siderurgia, Mineração e Metalurgia",True,True
+485,C&A,Moda e Vestuário,True,True
+486,CEB,Energia,True,
+487,Cegas,Energia,,
+488,Celesc Distribuição,Energia,True,True
+489,Cemig,Energia,True,
+490,Cencosud,Atacado e Varejo,True,False
+491,Centauro Esporte,Moda e Vestuário,True,
+492,Cerradinho Bioenergia,Energia,True,False
+493,Neomille,Agronegócio,True,False
+494,Cesp,Energia,True,True
+495,Banco GM,Bancos,True,
+496,Chubb,Seguradoras,True,False
+497,CI&T Software,Tecnologia e Telecomunicações,True,True
+498,Cia Müller,Alimentos e Bebidas,False,True
+499,Cibrafertil,Agronegócio,True,False
+500,Cielo,Serviços Financeiros,True,
+501,Cimento Itambé,Imobiliário e Construção Civil,True,True
+502,Cirion,Tecnologia e Telecomunicações,True,True
+503,Companhia Melhoramentos Norte do Paraná,Energia,True,False
+504,Banco CNH Industrial Capital,Bancos,True,False
+505,CNP Consórcio,Serviços Financeiros,True,True
+506,Coamo,Cooperativas,True,True
+507,Coca-Cola,Alimentos e Bebidas,True,True
+508,Cocamar,Cooperativas,True,True
+509,Cocari,Cooperativas,True,False
+510,Colombo,Atacado e Varejo,True,True
+511,Colombo Agroindústria,Agronegócio,False,False
+512,Comerc Energia LP,Energia,True,True
+513,Comgás,Energia,True,True
+514,Compagas,Energia,True,True
+515,Compass,Energia,True,False
+516,Energisa MT,Energia,True,True
+517,Cooperalfa,Cooperativas,True,True
+518,Cooxupé,Cooperativas,True,False
+519,Copacol,Cooperativas,True,True
+520,Copa Energia / Copagaz,Energia,True,True
+521,Copasa,Saneamento e Meio Ambiente,True,True
+522,Copasul,Cooperativas,True,True
+523,Corinthians,Participações e Mídia,True,False
+524,Seguros Unimed,Operadoras de Planos de Saúde,True,
+525,Corsan,Saneamento e Meio Ambiente,False,True
+526,Cosan,Energia,True,False
+527,CPFL,Energia,True,
+528,CP Kelco,Petróleo e Químico,True,True
+529,CPTM,"Transporte, Logística e Serviços Logísticos",True,True
+530,Crasa Infra,Imobiliário e Construção Civil,True,True
+531,Cras Brasil,Agronegócio,,
+532,CRBS,Atacado e Varejo,True,True
+533,Banco Crefisa,Bancos,True,
+534,CRS Brands Indústria e Comércio,Alimentos e Bebidas,False,False
+535,Cruzeiro do Sul,Educação,True,
+536,CSN,"Siderurgia, Mineração e Metalurgia",True,False
+537,CTG Brasil,Energia,True,True
+538,CVC Viagens,"Transporte, Logística e Serviços Logísticos",True,
+539,Cyrela,Imobiliário e Construção Civil,True,
+540,Calçados Dakota,Moda e Vestuário,True,True
+541,Teracom Telemática,Tecnologia e Telecomunicações,True,True
+542,Dataprev,Tecnologia e Telecomunicações,True,False
+543,Banco Daycoval,Bancos,True,
+544,Banco John Deere,Bancos,True,False
+545,Desenbahia,Participações e Mídia,,
+546,Desktop,Tecnologia e Telecomunicações,True,False
+547,Deten Química,Petróleo e Químico,True,False
+548,Dexxos Par,Petróleo e Químico,,
+549,Diana Bioenergia,Agronegócio,,
+550,Plano&Plano,Imobiliário e Construção Civil,True,True
+551,Dimed,Farmacêutico e Beleza,True,False
+552,Direcional Engenharia,Imobiliário e Construção Civil,True,True
+553,Banco de Lage Landen Brasil,Bancos,False,False
+554,Dotz,Serviços Financeiros,False,True
+555,RaiaDrogasil,Saúde e Serviços de Saúde,True,
+556,Drogaria São Paulo,Saúde e Serviços de Saúde,True,False
+557,Pacheco,Saúde e Serviços de Saúde,True,
+558,Duratex,Imobiliário e Construção Civil,True,True
+559,Alto Vale do Rio Negro Participações,Participações e Mídia,True,True
+560,EcoRodovias,"Transporte, Logística e Serviços Logísticos",True,
+561,Engelhart CTP,Participações e Mídia,True,True
+562,EDP Brasil,Energia,True,
+567,EDP São Paulo,Energia,True,False
+568,EDP SP-MG,Energia,True,False
+569,Sociedade Beneficente Israelita Brasileira Hospital Albert Einstein,Saúde e Serviços de Saúde,True,True
+570,Eldorado Brasil,Papel e Celulose,False,False
+571,Elekeiroz,Petróleo e Químico,False,True
+572,Centrais Elétricas do Norte,Energia,True,True
+573,Eletronuclear,Energia,True,False
+574,Embraport,"Transporte, Logística e Serviços Logísticos",True,False
+575,EMS,Farmacêutico e Beleza,True,True
+576,Enauta Energia,Petróleo e Químico,False,True
+577,Enel Brasil,Energia,True,True
+578,Energisa,Energia,True,
+579,Engie,Energia,True,False
+580,Enjoei,Tecnologia e Telecomunicações,False,True
+581,Equatorial Energia,Energia,True,True
+582,Esfera,Serviços Financeiros,True,
+583,Esho,Saúde e Serviços de Saúde,True,False
+584,O Estado de S. Paulo,Participações e Mídia,True,True
+585,Allpark,"Transporte, Logística e Serviços Logísticos",True,True
+586,Estrela,"Transporte, Logística e Serviços Logísticos",False,False
+587,Brinquedos Estrela,Bens de Capital e Eletroeletrônicos,False,False
+588,Eternit,Imobiliário e Construção Civil,True,True
+589,Eucatex,Imobiliário e Construção Civil,True,True
+590,Eurobike,"Transporte, Logística e Serviços Logísticos",True,True
+591,Bradesco Auto,Seguradoras,True,False
+592,Even,Imobiliário e Construção Civil,True,True
+593,Eztec,Imobiliário e Construção Civil,True,
+594,Facchini,Bens de Capital e Eletroeletrônicos,True,False
+595,Fairfax,Seguradoras,True,True
+596,Farmácias Nissei,Saúde e Serviços de Saúde,True,True
+597,Fazenda Santa Maria,Agronegócio,True,False
+598,Fábrica Carioca de Catalisadores,Petróleo e Químico,True,True
+599,Ferbasa,"Siderurgia, Mineração e Metalurgia",True,False
+600,Flamengo,Participações e Mídia,True,True
+601,Fleury,Saúde e Serviços de Saúde,True,True
+602,Fomento Paraná,Participações e Mídia,True,True
+603,Fortbras,Atacado e Varejo,,
+604,Frigol,Agronegócio,True,True
+605,Frimesa,Cooperativas,True,
+606,FS Fueling,Energia,True,True
+607,Ferrovia Tereza Cristina,"Transporte, Logística e Serviços Logísticos",True,True
+608,Banco Itaú BBA,Bancos,True,True
+609,Mapfre Previdência,Serviços Financeiros,,
+610,Furnas,Energia,True,False
+611,G10 Transportes,"Transporte, Logística e Serviços Logísticos",True,
+612,Gafisa,Imobiliário e Construção Civil,True,True
+613,Petrogal,Petróleo e Químico,False,False
+614,Gazin,Atacado e Varejo,True,
+615,Greenbrier Maxion Equipamentos e Serviços Ferroviários,"Transporte, Logística e Serviços Logísticos",False,False
+616,Gees,Agronegócio,True,False
+617,Generali,Seguradoras,True,True
+618,General Shopping,Imobiliário e Construção Civil,True,False
+619,Banco Genial,Bancos,True,True
+620,Gestamp,Bens de Capital e Eletroeletrônicos,True,False
+621,Globo,Participações e Mídia,True,True
+622,Globo Pharma,Farmacêutico e Beleza,True,
+623,NotreDame Intermédica,Operadoras de Planos de Saúde,True,
+624,Goiás,Participações e Mídia,True,True
+625,Goldman Sachs do Brasil - Banco Múltiplo,Bancos,True,True
+626,Granado,Farmacêutico e Beleza,True,True
+627,Grazziotin,Moda e Vestuário,True,True
+628,Grpcom,Participações e Mídia,True,False
+629,GRU - Guarulhos,"Transporte, Logística e Serviços Logísticos",True,
+630,CBO Holding,"Transporte, Logística e Serviços Logísticos",,
+631,CCR,"Transporte, Logística e Serviços Logísticos",True,True
+632,Grupo Maringá,"Siderurgia, Mineração e Metalurgia",True,True
+633,Grupo Mateus,Atacado e Varejo,True,True
+634,RBS Participações,Participações e Mídia,True,True
+635,Banco Cifra,Bancos,True,True
+636,Goldman Sachs do Brasil Corretora de Valores,Serviços Financeiros,True,
+637,Guararapes,Imobiliário e Construção Civil,False,
+638,Hapvida,Operadoras de Planos de Saúde,True,
+639,Havan,Atacado e Varejo,True,True
+640,HDI Global,Seguradoras,True,False
+641,HDI,Seguradoras,True,
+642,Heinz,Alimentos e Bebidas,False,False
+643,Hélio Borenstein,Imobiliário e Construção Civil,True,True
+645,Hering,Moda e Vestuário,True,True
+646,Fertilizantes Heringer,Agronegócio,True,True
+647,Hipercard,Bancos,True,
+648,Holambra,Cooperativas,True,False
+649,Sandvik,"Siderurgia, Mineração e Metalurgia",True,False
+650,Hospital Alemão Oswaldo Cruz,Saúde e Serviços de Saúde,True,False
+651,HTB,Imobiliário e Construção Civil,True,True
+652,Hypera,Farmacêutico e Beleza,True,True
+653,Ibema,Papel e Celulose,False,False
+654,Indústria Brasileira de Filmes,Tecnologia e Telecomunicações,True,True
+655,Irmãos Davoli,Bens de Capital e Eletroeletrônicos,False,True
+656,IMC,Alimentos e Bebidas,True,False
+657,Infra,"Transporte, Logística e Serviços Logísticos",,
+658,Caberj Integral Saúde,Operadoras de Planos de Saúde,True,True
+659,Intelbras,Tecnologia e Telecomunicações,True,False
+660,Investco,Energia,,
+661,Iochpe-Maxion,Bens de Capital e Eletroeletrônicos,True,False
+662,Itaú CDB,Serviços Financeiros,False,True
+663,Mineração Morro do Ipê,"Siderurgia, Mineração e Metalurgia",,
+664,IRB Resseguros,Seguradoras,True,True
+665,Iupar,Serviços Financeiros,True,True
+666,Itaú Corretora,Seguradoras,True,
+667,Itaú Seguros,Seguradoras,True,False
+668,Banco Itaucard,Bancos,True,False
+669,Itaú BBA Trading,Serviços Financeiros,,
+670,Itaú Vida,Seguradoras,True,True
+671,Itaú Companhia Securitizadora de Créditos Financeiros,Serviços Financeiros,False,False
+672,Itaú Unibanco Holding,Bancos,True,False
+673,Itauseg Saúde,Operadoras de Planos de Saúde,True,
+674,Itaú CTVM,Serviços Financeiros,True,True
+675,Itaú Unibanco,Bancos,True,True
+676,Itaú Capitalização,Serviços Financeiros,True,False
+677,Jalles Machado,Agronegócio,False,False
+678,Já Saúde,Farmacêutico e Beleza,True,False
+679,JBS,Alimentos e Bebidas,True,True
+680,JHSF,Imobiliário e Construção Civil,True,True
+681,J.Macêdo,Alimentos e Bebidas,True,True
+682,Junto Seguros,Seguradoras,True,True
+683,Kabum,Atacado e Varejo,True,True
+684,Kalunga,Atacado e Varejo,True,True
+685,Karsten,Moda e Vestuário,True,
+686,Katrium Indústrias Químicas,Petróleo e Químico,True,True
+687,Banco KDB do Brasil,Bancos,True,False
+688,Kepler Weber,Agronegócio,True,True
+689,Eugênio Raulino Koerich,Atacado e Varejo,True,
+690,Cogna,Educação,True,True
+691,Landco,Agronegócio,True,False
+692,Larco Comercial,Petróleo e Químico,True,False
+693,Porto Alegre Alimentos,Alimentos e Bebidas,True,True
+694,Lavoro Agro,Agronegócio,True,True
+695,Lavvi,Imobiliário e Construção Civil,True,False
+696,Leite Jussara,Alimentos e Bebidas,True,False
+697,Leitesol,Agronegócio,True,False
+698,Liderança Serviços,"Transporte, Logística e Serviços Logísticos",True,True
+699,Liderança Capitalização,Serviços Financeiros,True,False
+700,Light,Energia,True,
+701,Linck Máquinas,Bens de Capital e Eletroeletrônicos,False,True
+702,Livelo,Serviços Financeiros,True,False
+703,Localiza,"Transporte, Logística e Serviços Logísticos",False,
+704,Locaweb,Tecnologia e Telecomunicações,True,True
+705,Log-In,"Transporte, Logística e Serviços Logísticos",True,True
+706,Grendene,Moda e Vestuário,True,True
+707,Lojas CEM,Atacado e Varejo,True,
+708,Mercadomóveis,Atacado e Varejo,True,True
+709,Lojas Renner,Moda e Vestuário,True,True
+710,Lorenzetti,Bens de Capital e Eletroeletrônicos,True,False
+711,Lupo,Moda e Vestuário,True,
+712,Madem - Bobinas de Madeira,Imobiliário e Construção Civil,True,False
+713,Magazine Luiza,Atacado e Varejo,True,True
+714,Mapfre Seguros,Seguradoras,True,True
+715,Mapfre Resseguros,Seguradoras,True,True
+716,Mapfre Vida,Seguradoras,True,False
+717,Marfrig,Alimentos e Bebidas,True,True
+718,Lojas Marisa,Atacado e Varejo,True,
+719,Marlim Azul,Energia,True,True
+720,Hospital Mater Dei,Saúde e Serviços de Saúde,True,True
+721,McDonald’s,Alimentos e Bebidas,True,True
+722,Mediservice,Operadoras de Planos de Saúde,True,
+723,Melhoramentos,Papel e Celulose,True,False
+724,Méliuz,Serviços Financeiros,True,True
+725,Melnick Desenvolvimento Imobiliário,Imobiliário e Construção Civil,True,True
+726,Merck,Farmacêutico e Beleza,True,False
+727,Bioagri,Farmacêutico e Beleza,,
+728,Metal Group,"Siderurgia, Mineração e Metalurgia",,
+729,Metalkraft,Bens de Capital e Eletroeletrônicos,True,True
+730,Metasa,"Siderurgia, Mineração e Metalurgia",True,True
+731,Metisa,"Siderurgia, Mineração e Metalurgia",True,True
+732,Metropolitan Life,Seguradoras,True,True
+733,Metlife Planos Odontológicos,Operadoras de Planos de Saúde,True,True
+734,Metrô,"Transporte, Logística e Serviços Logísticos",False,False
+735,MetrôRio,"Transporte, Logística e Serviços Logísticos",True,False
+736,Mills Estruturas e Serviços de Engenharia,"Transporte, Logística e Serviços Logísticos",True,True
+738,Minasmáquinas,Bens de Capital e Eletroeletrônicos,True,True
+739,Mitre Realty,Imobiliário e Construção Civil,True,True
+740,Mitsubishi Corporation,Bens de Capital e Eletroeletrônicos,True,
+741,Mobly,Atacado e Varejo,True,
+742,Modal,Bancos,True,True
+743,Morlan,Bens de Capital e Eletroeletrônicos,True,True
+744,Moura Dubeux Engenharia,Imobiliário e Construção Civil,True,False
+745,Movida,"Transporte, Logística e Serviços Logísticos",True,
+746,Movida Locação,"Transporte, Logística e Serviços Logísticos",,
+747,MPD,Imobiliário e Construção Civil,True,False
+748,MRS Logística,"Transporte, Logística e Serviços Logísticos",True,False
+749,MRV,Imobiliário e Construção Civil,True,False
+750,Multilaser,Tecnologia e Telecomunicações,True,
+751,Multiplan,Imobiliário e Construção Civil,True,True
+752,Natura,Farmacêutico e Beleza,True,True
+753,Companhia Distribuidora De Gás do Rio De Janeiro - CEG/Naturgy,Energia,True,True
+755,Empresa de Navegação Elcano,"Transporte, Logística e Serviços Logísticos",True,True
+756,Neoenergia,Energia,True,
+757,Neugebauer Chocolates,Alimentos e Bebidas,True,False
+758,Nexa Recursos,"Siderurgia, Mineração e Metalurgia",True,False
+759,NG Metalúrgica,"Siderurgia, Mineração e Metalurgia",True,True
+760,Moinho do Nordeste,Alimentos e Bebidas,True,
+761,Norte Energia,Energia,False,True
+762,NTS,Energia,True,True
+763,Ocyan,Petróleo e Químico,True,False
+764,Odontoprev,Operadoras de Planos de Saúde,True,
+765,Geração Céu Azul,Energia,True,True
+766,Oliveira Trust,Serviços Financeiros,True,True
+767,Omint,Operadoras de Planos de Saúde,True,True
+768,Omni - Crédito,Serviços Financeiros,True,True
+769,Omni Banco,Bancos,True,True
+770,Zatix,Tecnologia e Telecomunicações,True,
+771,Barra Mansa Alimentos,Alimentos e Bebidas,False,True
+772,Banco Original,Bancos,True,False
+773,Orquídea Alimentos,Alimentos e Bebidas,True,False
+774,Banco Ourinvest,Bancos,True,True
+775,Banco Paccar,Bancos,True,False
+776,Padtec,Tecnologia e Telecomunicações,True,True
+777,Pague Menos,Saúde e Serviços de Saúde,True,
+778,Painco Indústria e Comércio,Bens de Capital e Eletroeletrônicos,True,False
+779,Painco,"Siderurgia, Mineração e Metalurgia",True,False
+780,Panatlântica,"Siderurgia, Mineração e Metalurgia",True,True
+781,Paramount Têxteis,Moda e Vestuário,True,True
+782,Paraná Banco,Bancos,True,False
+783,Paranaíba,Energia,,
+784,Paranaita,Energia,True,True
+785,Paranapanema,"Siderurgia, Mineração e Metalurgia",True,False
+786,Passarelli Engenharia,Imobiliário e Construção Civil,True,True
+787,Pauta Distribuição,Tecnologia e Telecomunicações,True,False
+788,Peccin,Alimentos e Bebidas,True,True
+789,Somov,Bens de Capital e Eletroeletrônicos,True,False
+790,Grupo Penha,Papel e Celulose,True,False
+791,Pernambucanas,Moda e Vestuário,False,True
+792,Petrocoque,Petróleo e Químico,True,False
+793,Pettenati,Moda e Vestuário,True,True
+794,Petz,Atacado e Varejo,True,False
+795,Piccadilly Company,Moda e Vestuário,True,
+796,Banco Pine,Bancos,True,False
+797,Piracanjuba,Agronegócio,True,
+798,Viação Piracicabana,"Transporte, Logística e Serviços Logísticos",True,True
+799,Coop,Cooperativas,True,False
+800,Porto Seguro - Seguro Saúde,Operadoras de Planos de Saúde,True,False
+801,Portobello,Imobiliário e Construção Civil,False,True
+802,Porto Itapoá,"Transporte, Logística e Serviços Logísticos",True,True
+803,Portonave,"Transporte, Logística e Serviços Logísticos",True,False
+804,Porto Seguro Previdência,Seguradoras,True,True
+805,Portos do Paraná,"Transporte, Logística e Serviços Logísticos",True,True
+806,Porto,Seguradoras,True,False
+807,Positivo Tecnologia,Tecnologia e Telecomunicações,True,False
+808,Pravaler,Serviços Financeiros,True,False
+809,Previ,Serviços Financeiros,True,True
+810,Primacredi,Cooperativas,,
+811,Priner,Bens de Capital e Eletroeletrônicos,True,False
+812,Prodesp,Tecnologia e Telecomunicações,True,
+813,Profarma,Farmacêutico e Beleza,,
+814,Prosegur,"Transporte, Logística e Serviços Logísticos",,
+815,Protege,"Transporte, Logística e Serviços Logísticos",True,
+816,Prudential Seguros,Seguradoras,True,
+817,Prudential do Brasil,Serviços Financeiros,True,
+818,Qualicorp,Operadoras de Planos de Saúde,True,True
+819,Qualicorp,Saúde e Serviços de Saúde,True,True
+820,Construtora Queiroz Galvão,Imobiliário e Construção Civil,False,False
+821,Lojas Quero-Quero,Atacado e Varejo,True,True
+822,Rabobank,Bancos,False,True
+823,Raízen Combustíveis,Energia,True,True
+824,Grupo Raízen,Energia,,
+825,Randoncorp,Bens de Capital e Eletroeletrônicos,True,False
+826,Recrusul,Petróleo e Químico,True,False
+827,Rede Agro,Agronegócio,,
+828,Rede D’Or,Saúde e Serviços de Saúde,True,True
+829,Alsol Energias Renováveis,Bens de Capital e Eletroeletrônicos,True,True
+830,Nutrisul,Alimentos e Bebidas,True,False
+831,Refinaria de Petróleo Riograndense,Petróleo e Químico,True,False
+832,Renault,Bens de Capital e Eletroeletrônicos,True,False
+833,Banco Rendimento,Bancos,True,True
+834,Renova Energia,Energia,True,True
+835,Riachuelo,Atacado e Varejo,False,True
+836,Rio Grande Seguros,Seguradoras,True,True
+837,Rivelli,Agronegócio,True,False
+838,Rocha Terminais,"Transporte, Logística e Serviços Logísticos",,
+839,Roche,Farmacêutico e Beleza,True,True
+840,Rochester,Atacado e Varejo,True,True
+841,Rodoil,"Transporte, Logística e Serviços Logísticos",True,True
+842,Rodovias do Tietê,"Transporte, Logística e Serviços Logísticos",True,True
+843,Rôgga Empreendimentos,Imobiliário e Construção Civil,,
+844,Romagnole,Energia,True,True
+845,Romi,Bens de Capital e Eletroeletrônicos,True,False
+846,Concessionária Rota,"Transporte, Logística e Serviços Logísticos",True,True
+847,Royal FIC,Energia,True,False
+848,Rumo,"Transporte, Logística e Serviços Logísticos",True,True
+849,Sabesp,Saneamento e Meio Ambiente,True,True
+850,Banco Safra,Bancos,True,True
+851,Família Salton,Alimentos e Bebidas,True,False
+853,Sanasa Campinas,Saneamento e Meio Ambiente,,
+854,Saneago,Saneamento e Meio Ambiente,True,True
+855,Sanepar,Saneamento e Meio Ambiente,True,False
+856,Sanofi Medley,Farmacêutico e Beleza,True,True
+857,Santander,Bancos,False,True
+858,Santher,Papel e Celulose,True,True
+859,Santos Brasil,"Transporte, Logística e Serviços Logísticos",True,False
+860,SG,"Transporte, Logística e Serviços Logísticos",,
+861,Usina São Manoel,Agronegócio,True,True
+862,São Martinho,Agronegócio,True,True
+863,São Paulo Futebol Clube,Participações e Mídia,True,
+864,Pasa,"Transporte, Logística e Serviços Logísticos",True,True
+865,Schulz Compressores,Bens de Capital e Eletroeletrônicos,True,True
+866,Sura Seguros,Seguradoras,True,True
+867,Unimed Seguros Saúde,Operadoras de Planos de Saúde,True,True
+868,Senior,Tecnologia e Telecomunicações,True,True
+869,Ser Educacional,Educação,True,True
+870,Serpro,Tecnologia e Telecomunicações,True,False
+871,Sertrading,"Transporte, Logística e Serviços Logísticos",True,True
+872,Sicoob,Cooperativas,True,True
+873,Banco Sicredi,Bancos,True,True
+874,SLC Agrícola,Agronegócio,True,True
+877,Smart Fit,Saúde e Serviços de Saúde,True,False
+878,SMBC,Bancos,True,True
+879,Itaú DTVM,Serviços Financeiros,True,True
+880,Sodexo,Serviços Financeiros,True,True
+881,Sofisa,Bancos,True,
+882,Solvi Essencis,Saneamento e Meio Ambiente,False,True
+883,Grupo Soma,Moda e Vestuário,,
+884,Somos Educação,Educação,True,False
+885,Sonda Supermercados,Atacado e Varejo,True,
+886,Soufer Industrial,"Siderurgia, Mineração e Metalurgia",True,False
+887,Valeo Thermal Bus,Bens de Capital e Eletroeletrônicos,False,False
+888,Valeo Thermal Bus,Bens de Capital e Eletroeletrônicos,True,False
+889,SPIC Brasil Energia Participações,Energia,True,True
+890,Stone Pagamentos,Serviços Financeiros,True,False
+891,SulAmérica Seguradora de Saúde,Operadoras de Planos de Saúde,True,False
+892,Supermercado Guanabara,Atacado e Varejo,True,
+893,Suzano,Papel e Celulose,True,
+894,Swiss,Seguradoras,False,True
+896,Sylvamo,Papel e Celulose,True,False
+897,Target,"Transporte, Logística e Serviços Logísticos",True,False
+898,TBG,"Transporte, Logística e Serviços Logísticos",True,True
+899,Terminal de Contingências de Paranaguá,"Transporte, Logística e Serviços Logísticos",True,False
+900,Porto Seguro Assistência,Seguradoras,True,False
+901,TecBan,Serviços Financeiros,True,True
+902,Technos,Bens de Capital e Eletroeletrônicos,False,
+903,Tegma Gestão,"Transporte, Logística e Serviços Logísticos",True,True
+904,Tegra,Imobiliário e Construção Civil,True,
+905,Telebras,Tecnologia e Telecomunicações,True,True
+906,Teleperformance CRM,Tecnologia e Telecomunicações,True,True
+907,Tembici,"Transporte, Logística e Serviços Logísticos",True,True
+908,Construtora Tenda,Imobiliário e Construção Civil,True,False
+909,Termomecanica,Bens de Capital e Eletroeletrônicos,True,True
+910,Laboratório Teuto,Farmacêutico e Beleza,True,True
+911,Track&Field,Moda e Vestuário,True,True
+912,Tickets For Fun,Tecnologia e Telecomunicações,True,
+913,TIM,Tecnologia e Telecomunicações,False,True
+914,Tokio Marine,Seguradoras,True,True
+915,Toledo do Brasil,"Siderurgia, Mineração e Metalurgia",True,True
+916,Totvs,Tecnologia e Telecomunicações,False,False
+917,Tramontina Cutelaria,"Siderurgia, Mineração e Metalurgia",True,False
+927,Transpanorama Transportes,"Transporte, Logística e Serviços Logísticos",,
+928,Tribanco,Bancos,True,True
+929,Trisul,Imobiliário e Construção Civil,True,True
+930,TPI – Triunfo,Serviços Financeiros,True,
+931,Tronox Pigmentos Do Brasil,Petróleo e Químico,True,True
+932,Tupy,Bens de Capital e Eletroeletrônicos,True,False
+933,UBS BB Serviços Financeiros,Bancos,True,False
+934,Uisa,Agronegócio,True,True
+935,Ultrapar,Energia,True,True
+936,Ultracargos,"Transporte, Logística e Serviços Logísticos",True,False
+937,União Química,Farmacêutico e Beleza,True,True
+938,Unicasa Móveis,Imobiliário e Construção Civil,True,False
+939,Ceub,Educação,True,True
+940,Unidas,"Transporte, Logística e Serviços Logísticos",True,True
+941,Unimed Participações,Operadoras de Planos de Saúde,True,
+945,Unimed BH,Operadoras de Planos de Saúde,False,True
+946,Unimed Campinas,Operadoras de Planos de Saúde,,
+947,Unimed Fortaleza,Operadoras de Planos de Saúde,True,
+948,Unimed Goiânia,Operadoras de Planos de Saúde,True,
+949,Unimed Saúde e Odonto,Operadoras de Planos de Saúde,True,True
+950,Unitapajós,"Transporte, Logística e Serviços Logísticos",False,True
+951,U&M,Imobiliário e Construção Civil,True,True
+952,UPL,Agronegócio,True,False
+953,Redecard,Serviços Financeiros,True,True
+954,Usiminas,"Siderurgia, Mineração e Metalurgia",True,False
+955,Usina Coruripe,Agronegócio,True,True
+956,Vale,"Siderurgia, Mineração e Metalurgia",False,True
+957,VTRM,Energia,True,True
+959,Vibra Energia,Energia,True,True
+960,Vidroporto,Imobiliário e Construção Civil,True,False
+961,Vitória Diesel,Bens de Capital e Eletroeletrônicos,True,False
+962,Vivara,Moda e Vestuário,True,True
+963,Viveo,Saúde e Serviços de Saúde,True,False
+964,Vix Logística,"Transporte, Logística e Serviços Logísticos",True,False
+965,VLI,"Transporte, Logística e Serviços Logísticos",True,True
+969,Azul Linhas Aéreas,"Transporte, Logística e Serviços Logísticos",True,True
+970,Gol Linhas Aéreas,"Transporte, Logística e Serviços Logísticos",True,False
+971,Banco Voiter,Bancos,True,True
+972,Banco Volvo ,Bancos,True,True
+973,Votorantim Cimentos,Imobiliário e Construção Civil,True,False
+974,Vulcabras,Moda e Vestuário,True,False
+977,Banco Volkswagen,Bancos,True,
+978,WEG,Bens de Capital e Eletroeletrônicos,True,
+979,Westwing,Atacado e Varejo,True,
+980,Whirlpool,Bens de Capital e Eletroeletrônicos,True,False
+981,Banco XP,Bancos,True,True
+982,XP Vida,Seguradoras,True,True
+983,Yakult,Alimentos e Bebidas,,
+984,Banco Yamaha Motor do Brasil,Bancos,True,True
+985,Yara Brasil,Agronegócio,True,True
+986,Yduqs,Educação,True,False
+987,Zaffari,Atacado e Varejo,True,
+988,Zurich Minas Seguros,Seguradoras,True,
+989,Brasilprev,Seguradoras,True,True
+990,CSU Cardsystem,Tecnologia e Telecomunicações,True,True
+991,Gerdau,"Siderurgia, Mineração e Metalurgia",True,True
+992,Infraero,"Transporte, Logística e Serviços Logísticos",True,True
+993,Bradesco Saúde,Operadoras de Planos de Saúde,True,
+994,Bradesco Vida e Previdência,Seguradoras,True,False
+995,Salobo,"Siderurgia, Mineração e Metalurgia",,
+998,Telmex do Brasil,Tecnologia e Telecomunicações,,
+1001,Bambuí Bioenergia,Agronegócio,,
+1003,Hematologica - Clínica de Hematologia,Saúde e Serviços de Saúde,,
+1005,Stellantis,Bens de Capital e Eletroeletrônicos,True,False
+1006,Cofco International,Agronegócio,True,False
+1007,Copersucar,Energia,True,False
+1008,Shell,Petróleo e Químico,True,False
+1009,Telefônica Brasil,Tecnologia e Telecomunicações,True,True
+1010,Claro Participações,Tecnologia e Telecomunicações,True,True
+1011,Acelen,Petróleo e Químico,True,True
+1012,Louis Dreyfus Company,Agronegócio,True,True
+1013,Mercado Livre,Atacado e Varejo,True,True
+1014,Volkswagen,Bens de Capital e Eletroeletrônicos,False,True
+1015,RD Saúde,Atacado e Varejo,True,True
+1016,Latam,"Transporte, Logística e Serviços Logísticos",True,True
+1017,Grupo Casas Bahia,Atacado e Varejo,True,True
+1018,Mosaic Fertilizantes,Petróleo e Químico,True,True
+1019,Honda,Bens de Capital e Eletroeletrônicos,True,False
+1020,Samsung,Bens de Capital e Eletroeletrônicos,True,True
+1021,Syngenta,Petróleo e Químico,True,
+1022,C. Vale,Agronegócio,True,False
+1023,Lar,Agronegócio,True,False
+1024,Nestlé,Alimentos e Bebidas,True,False
+1025,Aurora,Alimentos e Bebidas,True,False
+1026,GPA,Atacado e Varejo,True,False
+1027,Volvo do Brasil,Bens de Capital e Eletroeletrônicos,True,True
+1028,ECTP,Atacado e Varejo,True,True
+1029,Drogarias DPSP,Atacado e Varejo,True,True
+1030,Itaipu,Energia,True,False
+1031,ALE Combustíveis,Petróleo e Químico,True,False
+1032,Volkswagen Caminhões e Ônibus,Bens de Capital e Eletroeletrônicos,True,True
+1033,Atem,Petróleo e Químico,False,True
+1034,Grupo Águia Branca,"Transporte, Logística e Serviços Logísticos",True,True
+1035,Sotreq,Atacado e Varejo,True,False
+1036,Inpasa Agroindustrial,Energia,True,True
+1037,Refinaria da Amazônia - Ream,Petróleo e Químico,True,True
+1038,Super Muffato,Atacado e Varejo,True,True
+1039,Hospital São Paulo,Saúde e Serviços de Saúde,True,True
+1040,Grupo GPS,Participações e Mídia,True,True
+1041,Hydro Alunorte,"Siderurgia, Mineração e Metalurgia",True,True
+1042,ALZ Grãos,Agronegócio,True,True
+1043,Oi,Tecnologia e Telecomunicações,True,True
+1044,Solar Bebidas,Alimentos e Bebidas,True,True
+1045,AGCO Brasil,Bens de Capital e Eletroeletrônicos,False,False
+1046,EloPar,Serviços Financeiros,True,True
+1047,IFood,Tecnologia e Telecomunicações,True,True
+1048,Grupo Saga,Atacado e Varejo,True,True
+1049,Cooperativa Integrada,Agronegócio,False,True
+1050,Grupo NC Farma,Farmacêutico e Beleza,False,True
+1051,Grupo 3corações,Alimentos e Bebidas,True,True
+1052,Samarco,"Siderurgia, Mineração e Metalurgia",True,False
+1053,ZF,Bens de Capital e Eletroeletrônicos,True,False
+1054,Vallourec,"Siderurgia, Mineração e Metalurgia",True,True
+1055,Dexco,Imobiliário e Construção Civil,True,
+1056,Grupo Koch,Atacado e Varejo,True,True
+1057,DMA,Atacado e Varejo,True,False
+1058,Agrária,Agronegócio,True,True
+1059,Alcoa,"Siderurgia, Mineração e Metalurgia",True,False
+1060,Petrobahia,Petróleo e Químico,True,True
+1061,Grupo Atvos,Energia,False,True
+1062,Porto Sudeste,"Transporte, Logística e Serviços Logísticos",True,False
+1063,Bosch,Bens de Capital e Eletroeletrônicos,True,True
+1064,Tenda Atacado,Atacado e Varejo,True,False
+1065,Valgroup,Petróleo e Químico,True,True
+1066,Cooperativa Frísia,Agronegócio,True,True
+1067,Auren Energia,Energia,False,True
+1068,Évora,Petróleo e Químico,True,True
+1069,V.tal,Tecnologia e Telecomunicações,True,True
+1070,Potencial,Petróleo e Químico,True,True
+1071,3R Petroleum,Petróleo e Químico,True,
+1072,Coasul,Agronegócio,True,True
+1073,Pfizer,Farmacêutico e Beleza,True,False
+1074,Kinross,"Siderurgia, Mineração e Metalurgia",True,True
+1075,Grupo Martins,Atacado e Varejo,True,
+1076,Savegnago,Atacado e Varejo,True,True
+1077,Oleoplan,Energia,True,True
+1078,Albras,"Siderurgia, Mineração e Metalurgia",True,True
+1079,Citrosuco,Agronegócio,True,True
+1080,Cotrijal,Agronegócio,True,True
+1081,Zemax Log,"Transporte, Logística e Serviços Logísticos",True,True
+1082,Coopavel,Agronegócio,True,False
+1083,Grupo Lincoln Junqueira,Energia,True,True
+1084,Agro Amazônia,Agronegócio,True,False
+1085,Condor Super Center,Atacado e Varejo,True,
+1086,FMC,Petróleo e Químico,True,True
+1087,Refit,Petróleo e Químico,False,True
+1088,Embasa,Saneamento e Meio Ambiente,True,
+1089,AmE,Energia,True,False
+1090,Novartis Biociências,Farmacêutico e Beleza,True,False
+1091,Araguaia,Petróleo e Químico,True,False
+1092,Tigre,Petróleo e Químico,True,True
+1093,Serasa Experian,Participações e Mídia,False,True
+1094,Olfar,Energia,True,True

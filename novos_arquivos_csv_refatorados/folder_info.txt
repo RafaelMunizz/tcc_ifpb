@@ -1,0 +1,5 @@
+Essa pasta serve para guardar os dados após eles terem sido alterados de acordo com a classificação correta dos dados.
+O Wappalyzer classifica algumas coisas erroneamente e após esses dados serem ajustados, virão para essa pasta.
+
+Dados ajustados:
+* javascript_frameworks: O que era lib foi movido para javascript_libraries

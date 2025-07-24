@@ -1,0 +1,322 @@
+ID,Web frameworks
+1,Microsoft ASP.NET
+5,Microsoft ASP.NET
+8,Microsoft ASP.NET
+9,Java Servlet
+9,Microsoft ASP.NET
+11,JavaServer Faces
+15,Microsoft ASP.NET
+16,Fresh
+17,Laravel
+18,Microsoft ASP.NET
+26,Microsoft ASP.NET
+28,Microsoft ASP.NET
+31,Ruby on Rails
+33,Microsoft ASP.NET
+34,Next.js
+58,Next.js
+66,Microsoft ASP.NET
+70,Microsoft ASP.NET
+74,Microsoft ASP.NET
+78,Microsoft ASP.NET
+79,Microsoft ASP.NET
+89,Microsoft ASP.NET
+90,Microsoft ASP.NET
+99,Microsoft ASP.NET
+103,Microsoft ASP.NET
+117,Nuxt.js
+124,Next.js
+124,Microsoft ASP.NET
+125,Laravel
+125,Livewire
+127,Microsoft ASP.NET
+131,Microsoft ASP.NET
+134,Microsoft ASP.NET
+135,Microsoft ASP.NET
+140,Next.js
+146,Microsoft ASP.NET
+147,Microsoft ASP.NET
+148,Microsoft ASP.NET
+167,Ionic
+168,Express
+188,Express
+189,Microsoft ASP.NET
+195,Next.js
+196,Express
+212,Fresh
+221,Microsoft ASP.NET
+223,Microsoft ASP.NET
+225,Nette Framework
+227,Laravel
+227,Livewire
+243,Livewire
+243,Laravel
+244,Marko
+251,Laravel
+251,Livewire
+252,Next.js
+253,Microsoft ASP.NET
+264,Microsoft ASP.NET
+265,Next.js
+270,Next.js
+272,Microsoft ASP.NET
+276,Microsoft ASP.NET
+285,Microsoft ASP.NET
+287,Microsoft ASP.NET
+289,Microsoft ASP.NET
+306,Apache Wicket
+311,Next.js
+312,Microsoft ASP.NET
+314,Microsoft ASP.NET
+315,Microsoft ASP.NET
+327,Microsoft ASP.NET
+338,Microsoft ASP.NET
+340,Laravel
+340,Livewire
+342,Microsoft ASP.NET
+343,Next.js
+350,Nuxt.js
+350,Microsoft ASP.NET
+352,Microsoft ASP.NET
+359,Microsoft ASP.NET
+360,Nuxt.js
+366,Microsoft ASP.NET
+372,Next.js
+377,Laravel
+385,Next.js
+386,Microsoft ASP.NET
+387,Django
+389,Microsoft ASP.NET
+390,Next.js
+393,Adobe ColdFusion
+399,Microsoft ASP.NET
+402,Nuxt.js
+406,Microsoft ASP.NET
+407,Microsoft ASP.NET
+408,Microsoft ASP.NET
+411,Microsoft ASP.NET
+412,Next.js
+414,Microsoft ASP.NET
+415,Microsoft ASP.NET
+417,Microsoft ASP.NET
+424,Microsoft ASP.NET
+426,Microsoft ASP.NET
+428,Next.js
+429,Microsoft ASP.NET
+430,Microsoft ASP.NET
+431,Django
+440,Next.js
+442,Next.js
+447,Next.js
+451,Microsoft ASP.NET
+452,Microsoft ASP.NET
+454,Next.js
+456,Laravel
+460,Microsoft ASP.NET
+461,Nuxt.js
+462,Microsoft ASP.NET
+465,Microsoft ASP.NET
+476,Next.js
+476,Microsoft ASP.NET
+477,Express
+479,Next.js
+480,CodeIgniter
+480,Microsoft ASP.NET
+481,CodeIgniter
+482,Microsoft ASP.NET
+482,Blazor
+486,Microsoft ASP.NET
+488,Helix Ultimate
+491,Next.js
+497,Express
+497,Microsoft ASP.NET
+500,Nuxt.js
+502,Microsoft ASP.NET
+504,Microsoft ASP.NET
+510,Next.js
+517,Livewire
+517,Laravel
+519,Microsoft ASP.NET
+521,Java Servlet
+523,CodeIgniter
+529,Microsoft ASP.NET
+532,Helix Ultimate
+538,Microsoft ASP.NET
+538,Next.js
+547,Microsoft ASP.NET
+553,Microsoft ASP.NET
+555,Next.js
+559,Nuxt.js
+562,Microsoft ASP.NET
+567,Microsoft ASP.NET
+569,Microsoft ASP.NET
+569,Next.js
+573,Microsoft ASP.NET
+578,Microsoft ASP.NET
+580,Ruby on Rails
+580,Nuxt.js
+585,Microsoft ASP.NET
+585,Next.js
+588,Microsoft ASP.NET
+589,Microsoft ASP.NET
+591,Microsoft ASP.NET
+592,Next.js
+595,Nuxt.js
+596,Django
+597,Microsoft ASP.NET
+598,Django
+600,Laravel
+601,Next.js
+605,CodeIgniter
+607,CodeIgniter
+610,Microsoft ASP.NET
+612,Laravel
+613,Microsoft ASP.NET
+614,Next.js
+618,Microsoft ASP.NET
+619,Next.js
+620,Microsoft ASP.NET
+625,Next.js
+629,Microsoft ASP.NET
+631,Next.js
+642,Next.js
+643,Next.js
+649,Microsoft ASP.NET
+653,CakePHP
+657,Nette Framework
+658,Microsoft ASP.NET
+666,Microsoft ASP.NET
+667,Next.js
+668,Next.js
+670,Nuxt.js
+670,Microsoft ASP.NET
+672,Microsoft ASP.NET
+673,Microsoft ASP.NET
+677,Next.js
+680,Next.js
+683,Next.js
+686,Next.js
+688,CodeIgniter
+690,Next.js
+696,Laravel
+700,Microsoft ASP.NET
+709,Next.js
+710,Microsoft ASP.NET
+713,Next.js
+716,Microsoft ASP.NET
+717,Microsoft ASP.NET
+720,Next.js
+721,Nuxt.js
+724,Next.js
+724,Express
+735,Microsoft ASP.NET
+736,Next.js
+739,Next.js
+741,Yii
+741,Next.js
+743,Laravel
+744,Next.js
+747,Yii
+749,Microsoft ASP.NET
+751,Django
+752,Next.js
+761,Microsoft ASP.NET
+764,Nuxt.js
+766,Nuxt.js
+773,Next.js
+775,Microsoft ASP.NET
+782,Express
+782,Next.js
+786,Microsoft ASP.NET
+787,Microsoft ASP.NET
+791,Next.js
+796,Next.js
+808,Next.js
+815,Microsoft ASP.NET
+818,Nuxt.js
+819,Nuxt.js
+822,Express
+822,Stencil
+828,Stencil
+828,Next.js
+828,Express
+829,Next.js
+829,Microsoft ASP.NET
+830,CodeIgniter
+831,Microsoft ASP.NET
+835,Next.js
+841,Laravel
+841,Livewire
+843,Blazor
+843,Microsoft ASP.NET
+844,Nuxt.js
+853,Microsoft ASP.NET
+854,Microsoft ASP.NET
+856,Remix
+859,Microsoft ASP.NET
+862,Microsoft ASP.NET
+872,JavaServer Faces
+877,Ruby on Rails
+878,Microsoft ASP.NET
+881,Nuxt.js
+884,Microsoft ASP.NET
+885,Microsoft ASP.NET
+890,Next.js
+894,Microsoft ASP.NET
+897,Next.js
+897,Microsoft ASP.NET
+902,Fresh
+904,Next.js
+906,Microsoft ASP.NET
+908,Next.js
+908,Microsoft ASP.NET
+912,Next.js
+913,Marko
+929,Express
+934,Django
+938,CodeIgniter
+939,Microsoft ASP.NET
+940,Express
+948,Java Servlet
+950,Next.js
+955,Laravel
+956,Microsoft ASP.NET
+957,Microsoft ASP.NET
+963,Next.js
+964,Microsoft ASP.NET
+970,Marko
+978,Next.js
+979,Yii
+981,Next.js
+982,Next.js
+983,Microsoft ASP.NET
+984,Next.js
+985,Microsoft ASP.NET
+986,Microsoft ASP.NET
+988,Next.js
+989,Express
+993,JavaServer Faces
+994,Java Servlet
+1010,Next.js
+1016,Next.js
+1019,Microsoft ASP.NET
+1020,Microsoft ASP.NET
+1020,Next.js
+1041,Microsoft ASP.NET
+1043,Next.js
+1043,Express
+1047,Next.js
+1049,JavaServer Pages
+1049,Java Servlet
+1049,JavaServer Faces
+1053,Microsoft ASP.NET
+1058,Microsoft ASP.NET
+1059,Microsoft ASP.NET
+1062,Microsoft ASP.NET
+1064,Next.js
+1066,Microsoft ASP.NET
+1070,Laravel
+1075,Next.js
+1086,Microsoft ASP.NET
+1091,Next.js
+1092,Nuxt.js

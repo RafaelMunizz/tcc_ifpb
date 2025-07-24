@@ -1,0 +1,621 @@
+ID,Web servers
+1,IIS
+2,IIS
+3,Apache HTTP Server
+7,Apache HTTP Server
+9,Nginx
+12,Apache HTTP Server
+12,Nginx
+13,Nginx
+16,Deno
+16,Fresh
+17,Apache HTTP Server
+18,IIS
+20,Apache HTTP Server
+21,LiteSpeed
+22,lighttpd
+23,Apache HTTP Server
+23,Nginx
+24,LiteSpeed
+25,Nginx
+27,Apache HTTP Server
+31,Nginx
+31,OpenResty
+34,Next.js
+35,Apache HTTP Server
+36,Apache HTTP Server
+37,Apache HTTP Server
+38,Nginx
+38,Apache HTTP Server
+39,Apache HTTP Server
+40,IIS
+42,Apache HTTP Server
+43,Apache HTTP Server
+46,Apache HTTP Server
+48,Nginx
+51,Nginx
+51,Apache HTTP Server
+52,Apache HTTP Server
+53,Apache HTTP Server
+54,Apache HTTP Server
+55,Nginx
+56,Nginx
+57,Nginx
+57,LiteSpeed
+58,Next.js
+58,Nginx
+59,Nginx
+60,LiteSpeed
+61,LiteSpeed
+62,Nginx
+64,Apache HTTP Server
+65,Nginx
+72,Nginx
+73,Apache HTTP Server
+77,Apache HTTP Server
+78,Nginx
+78,Kestrel
+79,Nginx
+80,Apache HTTP Server
+81,Apache HTTP Server
+82,Apache HTTP Server
+86,Nginx
+87,Nginx
+95,Apache HTTP Server
+96,LiteSpeed
+98,Nginx
+99,Kestrel
+100,Apache HTTP Server
+101,Apache HTTP Server
+102,Apache HTTP Server
+104,Apache HTTP Server
+105,Nginx
+106,Nginx
+107,LiteSpeed
+107,Nginx
+108,Apache HTTP Server
+109,Apache HTTP Server
+110,Nginx
+112,Apache HTTP Server
+118,Apache HTTP Server
+119,Apache HTTP Server
+122,Nginx
+123,Apache HTTP Server
+124,Next.js
+125,Apache HTTP Server
+127,IIS
+128,Nginx
+129,Apache Tomcat
+130,Apache HTTP Server
+131,IIS
+132,Apache HTTP Server
+133,Apache HTTP Server
+134,IIS
+135,IIS
+136,Apache HTTP Server
+137,LiteSpeed
+138,Nginx
+139,Apache HTTP Server
+140,Apache HTTP Server
+140,Next.js
+142,Nginx
+143,Apache HTTP Server
+144,Apache HTTP Server
+145,LiteSpeed
+149,Nginx
+150,Apache HTTP Server
+151,LiteSpeed
+152,Apache HTTP Server
+153,Nginx
+154,Apache HTTP Server
+155,Nginx
+157,Apache HTTP Server
+158,Nginx
+159,Nginx
+160,Apache HTTP Server
+161,Apache HTTP Server
+163,Nginx
+164,Apache HTTP Server
+165,Apache HTTP Server
+166,Apache HTTP Server
+168,Express
+169,Apache HTTP Server
+172,Apache HTTP Server
+174,Apache HTTP Server
+175,Apache HTTP Server
+176,Apache HTTP Server
+180,Nginx
+184,Nginx
+185,LiteSpeed
+186,Nginx
+187,Nginx
+188,Express
+189,IIS
+192,IIS
+193,LiteSpeed
+194,Cowboy
+195,Next.js
+196,Nginx
+196,Express
+197,LiteSpeed
+200,Apache HTTP Server
+203,Apache HTTP Server
+210,Apache HTTP Server
+212,Fresh
+212,Deno
+212,Nginx
+214,Apache HTTP Server
+215,Nginx
+216,Nginx
+217,Apache HTTP Server
+219,Apache HTTP Server
+221,Microsoft HTTPAPI
+222,Nginx
+223,Nginx
+224,LiteSpeed
+225,Apache HTTP Server
+227,Nginx
+235,Nginx
+237,OpenGSE
+238,Nginx
+239,Apache HTTP Server
+240,Apache HTTP Server
+241,Nginx
+242,Nginx
+245,Nginx
+245,Apache HTTP Server
+246,Nginx
+248,Apache HTTP Server
+250,Nginx
+251,Nginx
+252,Next.js
+253,IIS
+256,Apache HTTP Server
+258,Nginx
+259,LiteSpeed
+265,Next.js
+266,Apache HTTP Server
+268,Apache HTTP Server
+270,Next.js
+271,Nginx
+272,IIS
+274,Apache HTTP Server
+275,Nginx
+289,IIS
+298,Apache HTTP Server
+299,Nginx
+303,Nginx
+304,Apache HTTP Server
+305,Apache HTTP Server
+308,Nginx
+309,Apache HTTP Server
+309,Nginx
+310,Apache HTTP Server
+310,LiteSpeed
+311,Next.js
+317,Nginx
+318,Apache HTTP Server
+322,Nginx
+325,Apache HTTP Server
+328,Apache HTTP Server
+331,LiteSpeed
+334,Apache HTTP Server
+341,Nginx
+342,IIS
+343,Next.js
+344,Apache HTTP Server
+345,Apache HTTP Server
+350,Nginx
+353,Nginx
+354,LiteSpeed
+358,Apache HTTP Server
+361,LiteSpeed
+361,Nginx
+362,Nginx
+363,Nginx
+364,LiteSpeed
+369,Apache HTTP Server
+371,Apache HTTP Server
+372,Next.js
+373,Apache HTTP Server
+377,Apache HTTP Server
+378,IIS
+382,Apache HTTP Server
+384,Apache HTTP Server
+385,Next.js
+388,Nginx
+390,Next.js
+391,Nginx
+392,Apache HTTP Server
+393,Apache HTTP Server
+396,Nginx
+399,Apache HTTP Server
+402,Nginx
+403,Nginx
+411,IIS
+412,Next.js
+413,Apache HTTP Server
+414,IIS
+415,IIS
+421,Nginx
+424,IIS
+427,Apache HTTP Server
+428,Next.js
+431,Nginx
+436,LiteSpeed
+437,Apache HTTP Server
+440,Next.js
+441,Apache HTTP Server
+442,Next.js
+442,Apache HTTP Server
+443,Apache HTTP Server
+445,Apache HTTP Server
+446,Apache HTTP Server
+447,Next.js
+450,Nginx
+452,IIS
+453,Nginx
+454,Next.js
+455,Nginx
+458,Nginx
+460,IIS
+464,Apache HTTP Server
+465,IIS
+466,Apache HTTP Server
+467,Apache HTTP Server
+468,Apache HTTP Server
+469,Apache HTTP Server
+470,Nginx
+472,Oracle WebLogic Server
+474,Apache HTTP Server
+475,Apache HTTP Server
+476,Next.js
+477,Express
+478,Apache HTTP Server
+479,Next.js
+480,IIS
+481,Apache HTTP Server
+482,IIS
+487,Apache HTTP Server
+489,Nginx
+491,Next.js
+495,Apache HTTP Server
+496,Apache HTTP Server
+497,Express
+498,Apache HTTP Server
+499,Apache HTTP Server
+500,Apache HTTP Server
+501,Nginx
+503,IIS
+504,IIS
+506,Apache HTTP Server
+508,Apache HTTP Server
+510,Next.js
+514,Apache HTTP Server
+517,Nginx
+518,Apache HTTP Server
+519,Nginx
+520,LiteSpeed
+523,Apache HTTP Server
+528,Nginx
+529,IIS
+532,Apache HTTP Server
+537,Apache HTTP Server
+538,Next.js
+539,Nginx
+541,Nginx
+542,Nginx
+543,Nginx
+544,Apache HTTP Server
+546,Nginx
+547,IIS
+549,Nginx
+550,Nginx
+555,Next.js
+558,Apache HTTP Server
+559,Apache HTTP Server
+561,LiteSpeed
+562,Kestrel
+568,Nginx
+569,Next.js
+570,Nginx
+572,Apache HTTP Server
+573,IIS
+575,Apache HTTP Server
+576,Nginx
+577,Apache HTTP Server
+579,Apache HTTP Server
+581,Apache HTTP Server
+582,Oracle WebLogic Server
+583,Nginx
+584,Nginx
+584,OpenResty
+585,Next.js
+585,Nginx
+588,IIS
+590,Cowboy
+591,IIS
+592,Next.js
+593,Apache HTTP Server
+596,Nginx
+597,IIS
+598,Nginx
+601,Next.js
+602,Nginx
+603,Nginx
+607,Apache HTTP Server
+610,Kestrel
+611,Apache HTTP Server
+614,Next.js
+615,Apache HTTP Server
+616,Apache HTTP Server
+617,Nginx
+619,Next.js
+622,Apache HTTP Server
+624,Apache HTTP Server
+625,Next.js
+627,Apache HTTP Server
+628,Apache HTTP Server
+631,Next.js
+633,Apache HTTP Server
+635,Apache HTTP Server
+642,Next.js
+643,Next.js
+648,Nginx
+650,Apache HTTP Server
+653,Apache HTTP Server
+654,Apache HTTP Server
+655,Cowboy
+656,Apache HTTP Server
+657,Apache HTTP Server
+658,Nginx
+663,IIS
+667,Next.js
+668,Next.js
+670,Nginx
+670,Phusion Passenger
+671,Microsoft HTTPAPI
+674,Apache HTTP Server
+676,Apache HTTP Server
+677,Next.js
+678,Nginx
+679,Apache HTTP Server
+680,Next.js
+681,Nginx
+683,OpenResty
+683,Next.js
+683,Nginx
+684,Nginx
+686,Next.js
+686,Nginx
+686,Apache HTTP Server
+688,Apache HTTP Server
+689,Oracle WebLogic Server
+690,Next.js
+692,Apache HTTP Server
+696,Nginx
+698,Apache HTTP Server
+702,Oracle WebLogic Server
+704,Apache HTTP Server
+707,IIS
+709,Oracle WebLogic Server
+709,Next.js
+710,IIS
+712,Apache HTTP Server
+713,Next.js
+717,IIS
+718,Nginx
+720,Next.js
+723,Apache HTTP Server
+724,Nginx
+724,Express
+724,Next.js
+725,Apache HTTP Server
+727,Apache HTTP Server
+728,Apache HTTP Server
+730,Apache HTTP Server
+731,Apache HTTP Server
+732,Apache HTTP Server
+733,Apache HTTP Server
+736,Next.js
+736,Nginx
+738,Cowboy
+739,Next.js
+740,Apache HTTP Server
+741,Next.js
+743,Nginx
+744,Next.js
+751,gunicorn
+752,Next.js
+753,Nginx
+755,Apache HTTP Server
+757,Nginx
+759,Apache HTTP Server
+760,Apache HTTP Server
+763,Nginx
+765,Apache HTTP Server
+766,Nginx
+770,Apache HTTP Server
+771,Apache HTTP Server
+773,Nginx
+773,Next.js
+776,Apache HTTP Server
+778,Apache HTTP Server
+779,Apache HTTP Server
+782,Express
+782,Next.js
+783,Apache HTTP Server
+784,LiteSpeed
+786,IIS
+788,Nginx
+791,Next.js
+792,Apache HTTP Server
+793,Apache HTTP Server
+796,Next.js
+796,Nginx
+797,Apache HTTP Server
+799,Apache HTTP Server
+801,Nginx
+802,Nginx
+805,Nginx
+806,Apache HTTP Server
+808,Next.js
+809,Apache HTTP Server
+811,LiteSpeed
+812,Apache HTTP Server
+813,Nginx
+816,Apache HTTP Server
+817,Apache HTTP Server
+818,Nginx
+819,Nginx
+820,Nginx
+822,Express
+822,Nginx
+823,Nginx
+824,Nginx
+826,Apache HTTP Server
+827,LiteSpeed
+828,Next.js
+828,Express
+829,Next.js
+830,LiteSpeed
+831,IIS
+832,Nginx
+834,Apache HTTP Server
+835,Next.js
+837,Apache HTTP Server
+838,Apache HTTP Server
+840,Nginx
+841,Apache HTTP Server
+843,Kestrel
+844,Apache HTTP Server
+845,Nginx
+846,Nginx
+847,Nginx
+848,Apache HTTP Server
+851,Apache HTTP Server
+855,Apache HTTP Server
+856,Remix
+858,Apache HTTP Server
+859,IIS
+860,Apache HTTP Server
+861,Apache HTTP Server
+864,Apache HTTP Server
+865,Nginx
+870,Zope
+871,Nginx
+879,Apache Tomcat
+881,Nginx
+884,Apache HTTP Server
+886,Apache HTTP Server
+887,IIS
+889,Apache HTTP Server
+890,Next.js
+891,Apache HTTP Server
+894,Apache HTTP Server
+897,Next.js
+898,Nginx
+899,Apache HTTP Server
+899,Nginx
+902,Fresh
+902,Deno
+903,Nginx
+904,Next.js
+905,Apache HTTP Server
+907,Nginx
+908,Next.js
+908,IIS
+909,IIS
+910,LiteSpeed
+912,Next.js
+913,Nginx
+914,Nginx
+915,Nginx
+916,Nginx
+927,Apache HTTP Server
+928,Nginx
+929,Express
+932,Apache HTTP Server
+935,Apache HTTP Server
+936,Nginx
+937,Nginx
+938,Apache HTTP Server
+939,IIS
+940,Express
+941,Apache HTTP Server
+949,Apache HTTP Server
+950,Next.js
+951,Nginx
+955,Apache HTTP Server
+959,Nginx
+960,Apache HTTP Server
+963,Next.js
+973,Apache HTTP Server
+974,Nginx
+978,Next.js
+979,Nginx
+980,Nginx
+981,Microsoft HTTPAPI
+981,Next.js
+982,Microsoft HTTPAPI
+982,Next.js
+983,IIS
+984,Next.js
+984,Apache HTTP Server
+988,Next.js
+989,Express
+991,Apache HTTP Server
+1005,Apache HTTP Server
+1008,Apache HTTP Server
+1010,Next.js
+1013,Tengine
+1016,Next.js
+1016,Apache HTTP Server
+1019,Nginx
+1020,Next.js
+1023,Apache HTTP Server
+1028,LiteSpeed
+1029,Apache HTTP Server
+1033,Nginx
+1034,Apache HTTP Server
+1035,Nginx
+1036,Nginx
+1037,Nginx
+1039,Apache HTTP Server
+1040,Nginx
+1042,Apache HTTP Server
+1043,Express
+1043,Next.js
+1043,Apache HTTP Server
+1043,Nginx
+1045,Apache HTTP Server
+1047,Next.js
+1048,Nginx
+1049,GlassFish
+1050,Apache HTTP Server
+1050,Nginx
+1051,Apache HTTP Server
+1055,Apache HTTP Server
+1058,Nginx
+1059,IIS
+1060,Nginx
+1061,Nginx
+1062,IIS
+1064,Next.js
+1066,IIS
+1067,Apache HTTP Server
+1068,Apache HTTP Server
+1070,Apache HTTP Server
+1072,Apache HTTP Server
+1074,Apache HTTP Server
+1075,Next.js
+1078,Nginx
+1079,Apache HTTP Server
+1083,Apache HTTP Server
+1086,IIS
+1087,Apache HTTP Server
+1088,Apache HTTP Server
+1089,Apache HTTP Server
+1091,Next.js
+1093,Nginx
+1094,Nginx

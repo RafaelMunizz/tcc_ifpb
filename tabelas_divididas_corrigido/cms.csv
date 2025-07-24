@@ -1,0 +1,594 @@
+ID,CMS
+2,WordPress
+3,WordPress
+4,Drupal
+6,WordPress
+8,Microsoft SharePoint
+9,HCL Digital Experience
+9,Umbraco
+11,WordPress
+19,Bloomreach
+22,Joomla
+23,Joomla
+24,WordPress
+25,WordPress
+26,WordPress
+26,Umbraco
+27,WordPress
+30,Liferay
+34,Contentful
+35,WordPress
+36,WordPress
+37,WordPress
+38,WordPress
+39,WordPress
+42,WordPress
+43,WordPress
+44,WordPress
+46,WordPress
+48,WordPress
+50,WordPress
+51,WordPress
+53,WordPress
+54,WordPress
+55,WordPress
+56,WordPress
+57,WordPress
+58,WordPress
+59,Drupal
+60,WordPress
+61,WordPress
+62,WordPress
+64,WordPress
+65,WordPress
+66,Umbraco
+66,WordPress
+71,Liferay
+72,WordPress
+73,WordPress
+74,Microsoft SharePoint
+75,WordPress
+76,WordPress
+77,WordPress
+79,Umbraco
+80,WordPress
+81,WordPress
+82,WordPress
+83,Liferay
+85,HubSpot CMS Hub
+86,Drupal
+87,WordPress
+88,WordPress
+91,WordPress
+93,WordPress
+94,Drupal
+95,WordPress
+96,WordPress
+97,WordPress
+100,WordPress
+101,WordPress
+102,WordPress
+103,Sitecore
+104,WordPress
+105,Plone
+106,WordPress
+107,WordPress
+108,WordPress
+109,WordPress
+112,WordPress
+113,WordPress
+114,WordPress
+119,WordPress
+120,WordPress
+121,WordPress
+122,WordPress
+123,WordPress
+124,HubSpot CMS Hub
+124,Umbraco
+126,WordPress
+128,WordPress
+132,WordPress
+133,WordPress
+134,Microsoft SharePoint
+134,Adobe Experience Manager
+135,Microsoft SharePoint
+136,WordPress
+137,WordPress
+139,WordPress
+142,WordPress
+143,WordPress
+145,WordPress
+146,Sitecore
+150,WordPress
+151,WordPress
+153,WordPress
+155,WordPress
+156,WordPress
+157,WordPress
+158,WordPress
+159,WordPress
+160,WordPress
+161,WordPress
+164,WordPress
+165,WordPress
+169,WordPress
+170,WordPress
+171,WordPress
+172,WordPress
+173,Drupal
+174,WordPress
+176,WordPress
+183,Drupal
+184,WordPress
+185,WordPress
+186,WordPress
+187,WordPress
+193,WordPress
+197,WordPress
+198,WordPress
+200,WordPress
+201,Liferay
+203,WordPress
+204,WordPress
+205,WordPress
+212,WordPress
+214,WordPress
+215,WordPress
+216,WordPress
+217,WordPress
+220,WordPress
+221,Microsoft SharePoint
+222,Adobe Experience Manager
+222,WordPress
+223,Umbraco
+224,WordPress
+225,WordPress
+234,WordPress
+235,WordPress
+238,WordPress
+239,WordPress
+240,WordPress
+241,WordPress
+246,WordPress
+248,WordPress
+250,WordPress
+254,WordPress
+255,WordPress
+257,Liferay
+258,WordPress
+259,WordPress
+260,Drupal
+266,WordPress
+267,WordPress
+269,WordPress
+271,WordPress
+273,WordPress
+274,WordPress
+275,SDL Tridion
+275,WordPress
+277,WordPress
+280,WordPress
+281,WordPress
+282,WordPress
+283,WordPress
+286,WordPress
+288,WordPress
+290,WordPress
+291,WordPress
+292,WordPress
+293,WordPress
+294,WordPress
+295,WordPress
+296,WordPress
+298,WordPress
+299,WordPress
+301,Adobe Experience Manager
+303,WordPress
+304,WordPress
+305,WordPress
+307,WordPress
+308,WordPress
+309,WordPress
+310,WordPress
+312,Microsoft SharePoint
+314,Microsoft SharePoint
+315,Microsoft SharePoint
+316,WordPress
+317,WordPress
+318,WordPress
+319,WordPress
+320,WordPress
+322,WordPress
+324,Liferay
+324,WordPress
+325,WordPress
+327,Sitecore
+328,WordPress
+330,WordPress
+331,WordPress
+332,WordPress
+334,WordPress
+335,WordPress
+337,WordPress
+339,WordPress
+341,WordPress
+345,WordPress
+349,WordPress
+350,WordPress
+350,Umbraco
+352,Microsoft SharePoint
+354,WordPress
+355,WordPress
+356,Adobe Experience Manager
+359,Umbraco
+360,Contentful
+361,Adobe Experience Manager
+361,WordPress
+362,WordPress
+364,WordPress
+365,WordPress
+368,WordPress
+371,Adobe Experience Manager
+372,WordPress
+373,Adobe Experience Manager
+374,Adobe Experience Manager
+375,Adobe Experience Manager
+379,WordPress
+380,WordPress
+381,Drupal
+382,WordPress
+383,WordPress
+387,Wagtail
+388,Drupal
+389,Progress Sitefinity
+391,WordPress
+392,WordPress
+393,WordPress
+395,WordPress
+400,WordPress
+405,Adobe Experience Manager
+408,Umbraco
+410,WordPress
+413,WordPress
+421,Drupal
+422,WordPress
+423,Adobe Experience Manager
+424,Microsoft SharePoint
+425,Adobe Experience Manager
+429,WordPress
+434,Liferay
+435,Adobe Experience Manager
+436,WordPress
+437,WordPress
+438,Squarespace
+442,Adobe Experience Manager
+442,Contentful
+447,Adobe Experience Manager
+450,WordPress
+453,WordPress
+455,WordPress
+456,Botble CMS
+458,WordPress
+460,Sitecore
+462,Sitecore
+463,Liferay
+464,WordPress
+465,Microsoft SharePoint
+467,WordPress
+470,WordPress
+473,Liferay
+474,WordPress
+478,WordPress
+487,WordPress
+488,Joomla
+489,WordPress
+492,WordPress
+493,WordPress
+494,WordPress
+495,Adobe Experience Manager
+496,Adobe Experience Manager
+499,WordPress
+501,WordPress
+502,WordPress
+502,Umbraco
+503,WordPress
+504,Microsoft SharePoint
+512,HubSpot CMS Hub
+514,WordPress
+515,WordPress
+516,Wix
+518,WordPress
+519,Umbraco
+520,WordPress
+521,HCL Digital Experience
+526,WordPress
+527,Drupal
+528,WordPress
+529,Microsoft SharePoint
+530,Wix
+532,Joomla
+533,WordPress
+535,WordPress
+536,WordPress
+537,WordPress
+538,Umbraco
+539,Drupal
+542,Drupal
+546,WordPress
+548,WordPress
+552,WordPress
+553,Sitecore
+554,Prismic
+558,WordPress
+559,WordPress
+560,WordPress
+561,WordPress
+562,Umbraco
+568,Drupal
+569,Microsoft SharePoint
+570,WordPress
+571,WordPress
+572,WordPress
+573,Microsoft SharePoint
+575,WordPress
+576,WordPress
+577,Adobe Experience Manager
+578,Microsoft SharePoint
+579,WordPress
+579,Adobe Experience Manager
+581,WordPress
+583,TYPO3 CMS
+584,Arc XP
+585,Drupal
+585,Strapi
+593,WordPress
+599,WordPress
+600,Adobe Experience Manager
+601,Cosmic
+602,Drupal
+604,WordPress
+606,WordPress
+608,WordPress
+609,WordPress
+611,WordPress
+613,DNN
+615,WordPress
+617,WordPress
+620,Kentico CMS
+622,WordPress
+623,Liferay
+624,WordPress
+627,WordPress
+628,WordPress
+629,Microsoft SharePoint
+632,WordPress
+632,Wix
+633,WordPress
+635,WordPress
+637,Prismic
+638,Drupal
+646,WordPress
+647,Adobe Experience Manager
+650,WordPress
+651,Wix
+656,WordPress
+657,WordPress
+661,WordPress
+662,WordPress
+664,WordPress
+670,Umbraco
+672,WordPress
+674,Adobe Experience Manager
+674,WordPress
+676,WordPress
+681,WordPress
+682,WordPress
+686,WordPress
+691,Squarespace
+692,WordPress
+693,Magnolia CMS
+694,WordPress
+697,WordPress
+698,WordPress
+700,Microsoft SharePoint
+701,Wix
+704,WordPress
+705,WordPress
+707,WordPress
+710,Progress Sitefinity
+714,SDL Tridion
+714,WordPress
+715,WordPress
+717,Microsoft SharePoint
+722,HCL Digital Experience
+723,WordPress
+725,WordPress
+726,Adobe Experience Manager
+727,WordPress
+728,WordPress
+729,Wix
+731,WordPress
+732,Adobe Experience Manager
+733,Adobe Experience Manager
+734,WordPress
+736,Adobe Experience Manager
+742,WordPress
+746,Storyblok
+748,WordPress
+749,Adobe Experience Manager
+753,WordPress
+756,Liferay
+758,WordPress
+759,WordPress
+761,Umbraco
+762,WordPress
+763,Drupal
+767,WordPress
+768,WordPress
+769,WordPress
+770,WordPress
+771,WordPress
+775,Sitecore
+776,WordPress
+778,WordPress
+779,WordPress
+780,WordPress
+781,Wix
+783,WordPress
+785,WordPress
+788,WordPress
+792,WordPress
+793,WordPress
+794,WordPress
+799,WordPress
+800,WordPress
+802,WordPress
+803,WordPress
+805,Drupal
+806,Adobe Experience Manager
+807,WordPress
+808,WordPress
+808,Strapi
+811,WordPress
+812,WordPress
+813,Drupal
+815,Umbraco
+816,Adobe Experience Manager
+817,Adobe Experience Manager
+818,WordPress
+819,WordPress
+820,WordPress
+827,WordPress
+829,Drupal
+829,Umbraco
+833,WordPress
+834,WordPress
+838,WordPress
+839,Storyblok
+842,Wix
+842,WordPress
+845,WordPress
+846,WordPress
+848,WordPress
+854,Umbraco
+855,Drupal
+858,WordPress
+863,WordPress
+864,WordPress
+865,WordPress
+868,WordPress
+870,Plone
+871,Duda
+872,Liferay
+874,WordPress
+877,WordPress
+878,Kentico CMS
+879,Liferay
+880,Drupal
+882,Wix
+883,WordPress
+884,Umbraco
+888,WordPress
+889,WordPress
+892,Drupal
+894,Adobe Experience Manager
+894,Umbraco
+898,Liferay
+899,WordPress
+900,WordPress
+901,Contentful
+903,WordPress
+905,WordPress
+906,Umbraco
+907,WordPress
+910,WordPress
+913,Drupal
+914,WordPress
+915,WordPress
+916,WordPress
+927,WordPress
+928,WordPress
+930,WordPress
+931,WordPress
+933,Adobe Experience Manager
+935,WordPress
+936,WordPress
+937,WordPress
+941,Liferay
+945,Drupal
+948,HCL Digital Experience
+954,WordPress
+955,October CMS
+956,Liferay
+957,Umbraco
+959,Drupal
+965,WordPress
+969,Adobe Experience Manager
+970,Drupal
+972,Adobe Experience Manager
+973,WordPress
+977,Adobe Experience Manager
+978,WordPress
+979,WordPress
+980,WordPress
+983,WordPress
+985,Optimizely Content Management
+988,Sitecore Experience Platform
+990,WordPress
+991,WordPress
+992,WordPress
+993,HCL Digital Experience
+1007,WordPress
+1008,Adobe Experience Manager
+1009,Adobe Experience Manager
+1012,WordPress
+1014,Adobe Experience Manager
+1015,WordPress
+1016,Adobe Experience Manager
+1017,WordPress
+1018,Adobe Experience Manager
+1019,Drupal
+1019,Umbraco
+1020,Adobe Experience Manager
+1020,Umbraco
+1021,Drupal
+1023,WordPress
+1024,Drupal
+1026,WordPress
+1027,Adobe Experience Manager
+1028,WordPress
+1029,WordPress
+1030,Drupal
+1031,WordPress
+1033,WordPress
+1037,WordPress
+1040,WordPress
+1041,Optimizely Content Management
+1045,Adobe Experience Manager
+1046,WordPress
+1050,WordPress
+1051,WordPress
+1052,WordPress
+1053,Umbraco
+1054,WordPress
+1055,WordPress
+1058,Umbraco
+1060,WordPress
+1061,WordPress
+1065,WordPress
+1067,WordPress
+1069,WordPress
+1074,WordPress
+1077,WordPress
+1078,WordPress
+1079,WordPress
+1081,WordPress
+1082,WordPress
+1084,WordPress
+1087,WordPress
+1088,Liferay
+1089,WordPress
+1090,Drupal
+1093,Adobe Experience Manager
+1093,WordPress
+1094,WordPress

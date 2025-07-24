@@ -1,0 +1,974 @@
+ID,Advertising
+1,Google Ads
+9,Twitter Ads
+16,Taboola
+16,Criteo
+16,Microsoft Advertising
+16,AppNexus
+16,Smart Ad Server
+16,Rubicon Project
+16,Geniee
+16,OpenX
+16,Google Ads
+16,GumGum
+19,Microsoft Advertising
+19,Twitter Ads
+19,Tatari
+19,AppNexus
+21,Twitter Ads
+25,Microsoft Advertising
+25,Google Ads
+25,Twitter Ads
+26,Google Ads
+26,DoubleClick Floodlight
+31,DoubleClick Floodlight
+34,Taboola
+34,AppNexus
+34,Google Ads
+34,Criteo
+34,DoubleClick Floodlight
+35,Google Ads
+41,Google Ads
+43,Google Ads
+46,Google Ads
+50,Google Ads
+51,Google Ads
+56,Google Ads
+57,Microsoft Advertising
+58,Criteo
+58,Microsoft Advertising
+58,AppNexus
+58,Twitter Ads
+59,DoubleClick Floodlight
+61,Smart Ad Server
+61,AppNexus
+61,Taboola
+62,Google Ads
+62,Microsoft Advertising
+65,Google Ads
+66,Google Ads
+67,Twitter Ads
+67,DoubleClick Floodlight
+67,Google Ads
+74,DoubleClick Floodlight
+85,Google Ads
+85,Twitter Ads
+85,Microsoft Advertising
+89,Google Ads
+99,Microsoft Advertising
+99,DoubleClick Floodlight
+99,Google Ads
+103,Google Ads
+105,Twitter Ads
+106,Google Ads
+111,Google Ads
+111,DoubleClick Floodlight
+115,Linkedin Ads
+116,Google Ads
+116,Microsoft Advertising
+122,Linkedin Ads
+124,Google Ads
+125,Outbrain
+125,Google Ads
+134,Google Ads
+134,Google AdSense
+134,Microsoft Advertising
+136,Google Ads
+137,Google Ads
+138,DoubleClick Floodlight
+138,Google Ads
+140,Google Ads
+141,DoubleClick Floodlight
+141,Twitter Ads
+141,Google Ads
+149,DoubleClick Floodlight
+152,Twitter Ads
+155,Google Ads
+156,DoubleClick Floodlight
+162,Google Publisher Tag
+162,Microsoft Advertising
+162,Taboola
+162,Prebid
+162,Google AdSense
+170,Linkedin Ads
+171,Microsoft Advertising
+171,DoubleClick Floodlight
+171,Google Ads
+172,Google Ads
+177,Google Ads
+183,Google Ads
+183,Outbrain
+183,Prebid
+184,Google Ads
+184,Linkedin Ads
+189,Twitter Ads
+191,Google Ads
+193,Google Ads
+193,Linkedin Ads
+193,Twitter Ads
+196,DoubleClick Floodlight
+199,Google Ads
+200,Google Ads
+201,Google Ads
+202,Google Ads
+202,Microsoft Advertising
+202,DoubleClick Floodlight
+202,Linkedin Ads
+203,Google Ads
+203,Linkedin Ads
+206,Microsoft Advertising
+206,Google Ads
+206,DoubleClick Floodlight
+208,Google Ads
+208,Microsoft Advertising
+208,Criteo
+208,AppNexus
+208,Rakuten Advertising
+210,Google Ads
+212,Microsoft Advertising
+212,DoubleClick Floodlight
+216,Taboola
+216,Criteo
+218,Google Ads
+222,Google Ads
+222,DoubleClick Floodlight
+226,Microsoft Advertising
+226,Google Ads
+234,Google Ads
+237,Google AdSense
+251,Google Ads
+252,Google Ads
+252,Microsoft Advertising
+255,Smart Ad Server
+255,AppNexus
+257,Google Ads
+261,AppNexus
+262,AppNexus
+262,Smart Ad Server
+262,Google Ads
+262,Taboola
+262,Criteo
+262,Microsoft Advertising
+265,Google Ads
+267,Google Ads
+267,Smart Ad Server
+267,AppNexus
+270,Google Ads
+271,Google Ads
+272,Linkedin Ads
+273,Google Ads
+275,Microsoft Advertising
+295,Google Ads
+300,DoubleClick Floodlight
+300,Google Ads
+303,Microsoft Advertising
+303,Twitter Ads
+304,Linkedin Ads
+306,Microsoft Advertising
+315,Google Ads
+317,Google Ads
+317,Microsoft Advertising
+318,Linkedin Ads
+319,Adform
+319,DoubleClick Floodlight
+319,DoubleClick for Publishers
+319,Google Ads
+319,Microsoft Advertising
+319,Google Publisher Tag
+320,Linkedin Ads
+320,Google Ads
+324,AcuityAds
+324,Linkedin Ads
+324,Outbrain
+330,Microsoft Advertising
+330,Linkedin Ads
+332,Taboola
+332,Microsoft Advertising
+332,AppNexus
+332,Smart Ad Server
+332,Google Ads
+333,DoubleClick Floodlight
+339,Linkedin Ads
+343,Google Ads
+346,Linkedin Ads
+347,Google Ads
+348,Google Ads
+348,Criteo
+349,DoubleClick Floodlight
+350,Google Ads
+350,Microsoft Advertising
+351,Google Ads
+353,Google Ads
+356,Criteo
+356,Microsoft Advertising
+356,Google Ads
+356,DoubleClick Floodlight
+356,Twitter Ads
+358,Google Ads
+359,Taboola
+359,Criteo
+359,DoubleClick Floodlight
+360,Linkedin Ads
+362,Google Ads
+370,Microsoft Advertising
+370,Criteo
+370,AppNexus
+370,Google Ads
+372,Google Ads
+372,Microsoft Advertising
+373,Google Ads
+373,DoubleClick Floodlight
+373,Microsoft Advertising
+374,Microsoft Advertising
+374,Criteo
+374,Google Ads
+374,Google AdSense
+375,Linkedin Ads
+375,Twitter Ads
+375,DoubleClick Floodlight
+375,Google Ads
+381,DoubleClick Floodlight
+385,Google Ads
+385,Microsoft Advertising
+385,Criteo
+385,AppNexus
+385,Twitter Ads
+385,Taboola
+389,Twitter Ads
+390,Google Ads
+390,Microsoft Advertising
+393,Sizmek
+393,DoubleClick Floodlight
+394,Twitter Ads
+396,Google Ads
+397,Taboola
+397,AppNexus
+397,Smart Ad Server
+399,Google Ads
+400,Google Ads
+402,Google Ads
+405,Outbrain
+405,Criteo
+405,AppNexus
+405,Microsoft Advertising
+405,Google Ads
+417,Microsoft Advertising
+420,Google Ads
+422,DoubleClick Floodlight
+422,Twitter Ads
+422,Google Ads
+422,Amazon Advertising
+423,Google Ads
+425,Google Ads
+428,Criteo
+428,Microsoft Advertising
+432,Google Ads
+432,AppNexus
+435,DoubleClick Floodlight
+438,AppNexus
+438,DoubleClick Floodlight
+440,Rakuten Advertising
+440,Criteo
+440,Google Ads
+440,Rubicon Project
+440,AppNexus
+440,DoubleClick Floodlight
+440,Geniee
+440,Microsoft Advertising
+442,Adform
+442,DoubleClick Floodlight
+442,Google Ads
+442,Twitter Ads
+447,Twitter Ads
+451,Twitter Ads
+451,DoubleClick Floodlight
+451,Linkedin Ads
+452,Linkedin Ads
+455,Linkedin Ads
+458,Linkedin Ads
+459,Amazon Advertising
+459,DoubleClick Floodlight
+459,Taboola
+459,Google Ads
+459,AppNexus
+459,Microsoft Advertising
+459,Smart Ad Server
+461,Twitter Ads
+461,Google Ads
+463,Teads
+463,Microsoft Advertising
+463,Criteo
+463,Google Ads
+463,Amazon Advertising
+463,Taboola
+465,Google Ads
+465,Twitter Ads
+473,Google Ads
+473,AppNexus
+476,Microsoft Advertising
+476,Rubicon Project
+476,DoubleClick Floodlight
+476,Criteo
+476,Google Ads
+485,Microsoft Advertising
+485,Google Ads
+485,Criteo
+491,Google Publisher Tag
+491,Google Ads
+491,Smart Ad Server
+491,Criteo
+491,Rakuten Advertising
+491,Microsoft Advertising
+496,Podsights
+496,Google Ads
+496,DoubleClick Floodlight
+496,Amazon Advertising
+498,Smart Ad Server
+498,AppNexus
+498,Taboola
+499,Smart Ad Server
+499,Linkedin Ads
+499,Taboola
+499,AcuityAds
+499,Google Ads
+499,DoubleClick Floodlight
+499,AppNexus
+500,Google Ads
+500,Amazon Advertising
+500,Microsoft Advertising
+500,AppNexus
+502,Google Ads
+502,AdRoll
+502,DoubleClick Floodlight
+505,Google Ads
+507,DoubleClick Floodlight
+510,Microsoft Advertising
+510,DoubleClick Floodlight
+510,Criteo
+510,AppNexus
+512,DoubleClick Floodlight
+512,Microsoft Advertising
+512,Taboola
+512,Google Ads
+513,Linkedin Ads
+513,DoubleClick Floodlight
+516,Taboola
+523,Google AdSense
+523,DoubleClick for Publishers
+523,Google Publisher Tag
+524,Google Ads
+526,Google Ads
+528,Linkedin Ads
+534,DoubleClick Floodlight
+535,Linkedin Ads
+535,Amazon Advertising
+535,Microsoft Advertising
+535,Criteo
+535,DoubleClick Floodlight
+535,Google Ads
+536,Linkedin Ads
+538,DoubleClick Floodlight
+538,DoubleClick for Publishers
+538,Google Publisher Tag
+538,Google Ads
+538,Criteo
+538,Microsoft Advertising
+539,AppNexus
+539,Microsoft Advertising
+539,Google Ads
+540,Rakuten Advertising
+540,AppNexus
+540,Google Ads
+540,MainAd
+540,Microsoft Advertising
+543,Google Ads
+543,Criteo
+544,DoubleClick Floodlight
+544,Google Ads
+546,DoubleClick Floodlight
+546,Microsoft Advertising
+546,Criteo
+550,TripleLift
+550,PubMatic
+550,Rubicon Project
+550,ID5
+550,Criteo
+550,Google Publisher Tag
+550,Amazon Advertising
+550,Prebid
+550,AppNexus
+550,Smart Ad Server
+550,Adform
+550,Sharethrough
+551,Google Ads
+551,Microsoft Advertising
+552,Google Ads
+553,Linkedin Ads
+555,Google Publisher Tag
+555,Google Ads
+555,AppNexus
+555,Criteo
+555,Google AdSense
+556,Rakuten Advertising
+556,AppNexus
+556,Criteo
+556,Twitter Ads
+556,Microsoft Advertising
+557,Microsoft Advertising
+557,Criteo
+557,AppNexus
+557,Rakuten Advertising
+557,Google Ads
+557,Twitter Ads
+558,Taboola
+559,Google AdSense
+568,DoubleClick Floodlight
+569,Google Ads
+576,Linkedin Ads
+578,Pinterest Ads
+579,Google Ads
+579,Linkedin Ads
+579,Microsoft Advertising
+580,Geniee
+580,Twitter Ads
+580,Rubicon Project
+580,GumGum
+580,Microsoft Advertising
+584,Google AdSense
+584,Prebid
+584,Smart Ad Server
+584,Amazon Advertising
+584,Google Publisher Tag
+584,AppNexus
+584,PubMatic
+584,Outbrain
+584,OpenX
+584,Marfeel
+584,Rubicon Project
+586,Google Ads
+587,Google Ads
+589,Google Ads
+592,Google Ads
+593,AppNexus
+593,GumGum
+593,Geniee
+593,Google Ads
+596,Criteo
+596,Microsoft Advertising
+596,Google Ads
+601,Microsoft Advertising
+601,DoubleClick Floodlight
+601,AppNexus
+612,Microsoft Advertising
+612,Google Ads
+612,DoubleClick Floodlight
+613,Microsoft Advertising
+613,Twitter Ads
+613,Linkedin Ads
+614,AppNexus
+614,Google Ads
+614,Rubicon Project
+614,Geniee
+614,Criteo
+619,Google AdSense
+619,Twitter Ads
+619,DoubleClick Floodlight
+619,Google Ads
+619,Microsoft Advertising
+621,DoubleClick Campaign Manager
+621,TripleLift
+621,33Across
+621,Microsoft Advertising
+621,Google AdSense
+621,Rubicon Project
+621,Marfeel
+621,Prebid
+621,PubMatic
+621,AppNexus
+621,Criteo
+621,Google Ads
+621,Google Publisher Tag
+621,GumGum
+621,ID5
+621,OpenX
+623,Taboola
+623,AppNexus
+623,DoubleClick Floodlight
+623,Microsoft Advertising
+623,Teads
+623,Google Ads
+625,Linkedin Ads
+625,Microsoft Advertising
+625,Google Ads
+626,Criteo
+626,Google Ads
+634,Google Ads
+639,Google Ads
+640,Linkedin Ads
+641,AppNexus
+641,Linkedin Ads
+641,Google AdSense
+642,theTradeDesk
+643,Google Ads
+645,Criteo
+645,Google Ads
+645,AppNexus
+645,Microsoft Advertising
+649,Reddit Ads
+649,Google Ads
+650,Twitter Ads
+650,Google Ads
+650,AppNexus
+659,Pinterest Ads
+659,AppNexus
+659,Teads
+659,Taboola
+659,DoubleClick Floodlight
+662,DoubleClick Floodlight
+663,Microsoft Advertising
+664,Twitter Ads
+665,DoubleClick Floodlight
+665,Google AdSense
+665,Google Ads
+667,Twitter Ads
+668,Twitter Ads
+669,Google Ads
+674,Linkedin Ads
+683,AppNexus
+683,Geniee
+683,Google Ads
+683,DoubleClick Floodlight
+683,Microsoft Advertising
+683,Criteo
+683,Smart Ad Server
+683,OpenX
+683,Reddit Ads
+683,Rubicon Project
+684,Microsoft Advertising
+684,Google Ads
+685,DoubleClick Floodlight
+685,Rubicon Project
+685,Google Ads
+685,Smart Ad Server
+685,AppNexus
+685,Microsoft Advertising
+685,Criteo
+685,Taboola
+688,AppNexus
+688,Taboola
+688,Smart Ad Server
+689,Criteo
+689,Google Ads
+689,AppNexus
+695,AppNexus
+695,Google Ads
+695,Amazon Advertising
+702,Google Ads
+702,DoubleClick Floodlight
+702,Microsoft Advertising
+702,Criteo
+704,Linkedin Ads
+704,DoubleClick Floodlight
+704,Google Ads
+704,Microsoft Advertising
+705,Linkedin Ads
+706,Google Ads
+706,AppNexus
+708,AppNexus
+708,Google Ads
+709,Smart Ad Server
+709,AppNexus
+709,DoubleClick Floodlight
+709,Geniee
+709,Microsoft Advertising
+709,Criteo
+711,Google Ads
+711,AppNexus
+713,Rubicon Project
+713,DoubleClick Floodlight
+713,Criteo
+713,Twitter Ads
+713,Tapad
+713,Microsoft Advertising
+713,Google Ads
+713,AppNexus
+714,DoubleClick Floodlight
+718,Google Ads
+718,Rakuten Advertising
+718,Criteo
+721,Twitter Ads
+722,Google Ads
+724,Google Ads
+724,Google Publisher Tag
+725,Google Ads
+726,Linkedin Ads
+732,Google Ads
+732,Microsoft Advertising
+732,DoubleClick Floodlight
+733,Google Ads
+733,Microsoft Advertising
+733,DoubleClick Floodlight
+735,Google Ads
+735,AppNexus
+735,DoubleClick Floodlight
+739,Pinterest Ads
+741,Geniee
+741,AppNexus
+741,Rakuten Advertising
+741,Google Ads
+741,Criteo
+741,Microsoft Advertising
+742,Linkedin Ads
+742,Twitter Ads
+742,Microsoft Advertising
+745,Criteo
+745,Microsoft Advertising
+745,OpenX
+745,Taboola
+745,AppNexus
+745,Rubicon Project
+745,Google Ads
+746,Microsoft Advertising
+747,Pinterest Ads
+749,Twitter Ads
+749,DoubleClick Floodlight
+749,Google Ads
+749,Microsoft Advertising
+750,OpenX
+750,Rakuten Advertising
+750,Criteo
+750,Geniee
+750,Google Ads
+750,Smart Ad Server
+750,AppNexus
+750,Rubicon Project
+750,Taboola
+750,Microsoft Advertising
+752,Google Ads
+752,Rakuten Advertising
+752,Taboola
+752,AppNexus
+752,Microsoft Advertising
+752,Criteo
+752,Amazon Advertising
+756,Twitter Ads
+756,DoubleClick Floodlight
+765,DoubleClick Floodlight
+767,Microsoft Advertising
+767,Taboola
+767,Google Ads
+770,Microsoft Advertising
+774,Linkedin Ads
+775,DoubleClick Floodlight
+777,Google Ads
+791,Google Ads
+794,Google Ads
+794,Twitter Ads
+794,Taboola
+794,Criteo
+794,Microsoft Advertising
+794,AppNexus
+795,AppNexus
+795,Google Ads
+795,Pinterest Ads
+795,Rakuten Advertising
+795,Microsoft Advertising
+801,Google Ads
+801,DoubleClick Floodlight
+806,Amazon Advertising
+806,DoubleClick Floodlight
+806,Google Ads
+807,Linkedin Ads
+808,Google Ads
+808,Microsoft Advertising
+814,Microsoft Advertising
+816,Google Ads
+817,Google Ads
+823,Taboola
+823,DoubleClick Floodlight
+825,Linkedin Ads
+828,AppNexus
+828,Marfeel
+829,DoubleClick Floodlight
+829,Criteo
+829,Linkedin Ads
+830,Google Ads
+832,Google Ads
+832,Teads
+833,Google Ads
+833,DoubleClick Floodlight
+835,Google Ads
+835,Rakuten Advertising
+835,Microsoft Advertising
+835,Teads
+835,DoubleClick Floodlight
+835,Twitter Ads
+845,Google Ads
+847,Google Ads
+850,Microsoft Advertising
+850,Google Ads
+850,Taboola
+850,Linkedin Ads
+854,Twitter Ads
+857,Google Ads
+857,Microsoft Advertising
+857,Rubicon Project
+857,Criteo
+863,AppNexus
+863,Smart Ad Server
+863,Google AdSense
+863,Google Publisher Tag
+867,Linkedin Ads
+868,Linkedin Ads
+868,Google Ads
+868,Microsoft Advertising
+872,Twitter Ads
+872,DoubleClick Floodlight
+872,Google AdSense
+873,DoubleClick Floodlight
+873,Google Ads
+873,Microsoft Advertising
+873,Criteo
+877,AppNexus
+877,DoubleClick Floodlight
+877,Google Ads
+877,Microsoft Advertising
+877,Twitter Ads
+879,Smart Ad Server
+879,Rubicon Project
+879,Google Ads
+879,Twitter Ads
+879,Microsoft Advertising
+879,Criteo
+879,OpenX
+879,AppNexus
+879,Geniee
+879,Amazon Advertising
+880,DoubleClick Floodlight
+880,Google Ads
+880,Criteo
+880,Microsoft Advertising
+880,33Across
+881,Google Ads
+884,DoubleClick Floodlight
+885,DoubleClick Floodlight
+885,Criteo
+885,Google Ads
+889,Linkedin Ads
+890,Criteo
+890,Rakuten Advertising
+890,Microsoft Advertising
+890,Google Ads
+892,Taboola
+892,DoubleClick Floodlight
+892,Google Ads
+892,Twitter Ads
+892,AppNexus
+892,Smart Ad Server
+893,Google Ads
+894,Google Ads
+897,Microsoft Advertising
+897,Google Publisher Tag
+897,Google Ads
+897,Google AdSense
+897,DoubleVerify
+901,Google Ads
+901,Linkedin Ads
+902,Microsoft Advertising
+902,Google Ads
+903,Google Ads
+904,AcuityAds
+904,Google Ads
+906,Twitter Ads
+908,Google Ads
+911,AppNexus
+911,Google Ads
+911,Microsoft Advertising
+911,Criteo
+911,Rubicon Project
+913,Microsoft Advertising
+913,Rubicon Project
+913,Amazon Advertising
+913,DoubleClick Floodlight
+913,Google Ads
+913,Criteo
+913,AppNexus
+913,Twitter Ads
+914,Smart Ad Server
+914,Teads
+914,Google Ads
+914,Taboola
+914,AppNexus
+914,DoubleClick Floodlight
+915,Google Ads
+916,Google Ads
+916,Amazon Advertising
+917,Criteo
+917,Google Ads
+917,Microsoft Advertising
+929,Google Ads
+933,Adform
+933,Google Ads
+937,Linkedin Ads
+940,AppNexus
+940,Google Ads
+940,Microsoft Advertising
+940,Criteo
+940,Smart Ad Server
+940,Amazon Advertising
+941,Google Ads
+941,Linkedin Ads
+941,Google AdSense
+945,Twitter Ads
+945,Linkedin Ads
+949,Linkedin Ads
+951,DoubleClick Campaign Manager
+951,Google AdSense
+951,Twitter Ads
+951,Adverticum
+951,Microsoft Advertising
+951,33Across
+951,Amazon Advertising
+951,Rubicon Project
+951,Outbrain
+951,Prebid
+951,Google Publisher Tag
+951,AppNexus
+952,Google Ads
+952,Twitter Ads
+953,DoubleClick Floodlight
+956,Twitter Ads
+956,Google Ads
+956,Linkedin Ads
+959,Linkedin Ads
+962,Taboola
+962,Google Ads
+962,AppNexus
+962,Sizmek
+962,Microsoft Advertising
+962,Criteo
+964,Linkedin Ads
+969,Google Ads
+969,Taboola
+969,Microsoft Advertising
+970,DoubleClick Floodlight
+970,Criteo
+970,Google Ads
+970,AppNexus
+970,Taboola
+970,Microsoft Advertising
+973,Linkedin Ads
+979,OpenX
+979,Criteo
+979,Google Ads
+979,Rubicon Project
+979,Smart Ad Server
+979,Geniee
+979,AppNexus
+981,Microsoft Advertising
+981,Google Ads
+981,DoubleClick Floodlight
+982,Microsoft Advertising
+982,Google Ads
+982,DoubleClick Floodlight
+988,AppNexus
+991,Taboola
+991,Microsoft Advertising
+991,AppNexus
+991,Smart Ad Server
+992,Twitter Ads
+1009,Microsoft Advertising
+1009,DoubleClick Floodlight
+1012,Twitter Ads
+1013,Microsoft Advertising
+1013,Google Ads
+1013,GumGum
+1013,Smart Ad Server
+1013,OpenX
+1013,Twitter Ads
+1013,Rubicon Project
+1013,DoubleClick Floodlight
+1013,Geniee
+1013,AppNexus
+1013,Criteo
+1014,Microsoft Advertising
+1014,Google Ads
+1014,AppNexus
+1014,Teads
+1016,Twitter Ads
+1016,OpenX
+1016,DoubleClick Floodlight
+1016,Smart Ad Server
+1016,Rubicon Project
+1016,Geniee
+1016,Amazon Advertising
+1016,AppNexus
+1016,Microsoft Advertising
+1016,Criteo
+1016,Google Ads
+1019,Taboola
+1019,Linkedin Ads
+1019,Pinterest Ads
+1019,Google Ads
+1019,DoubleClick Floodlight
+1019,Criteo
+1019,Teads
+1020,Criteo
+1020,AppNexus
+1020,DoubleClick Floodlight
+1020,MainAd
+1020,Reddit Ads
+1020,Optimise
+1020,AcuityAds
+1020,Facebook Ads
+1020,Teads
+1020,Google Ads
+1020,Microsoft Advertising
+1020,Twitter Ads
+1020,Amazon Advertising
+1020,theTradeDesk
+1024,DoubleClick Floodlight
+1026,Linkedin Ads
+1027,Twitter Ads
+1032,DoubleClick Floodlight
+1038,Google Ads
+1041,Google Ads
+1041,DoubleClick Floodlight
+1043,Smart Ad Server
+1043,Microsoft Advertising
+1043,AppNexus
+1043,Google Ads
+1043,DoubleClick Floodlight
+1043,Taboola
+1045,DoubleClick Floodlight
+1047,Google Publisher Tag
+1047,Google Ads
+1047,Microsoft Advertising
+1052,DoubleClick Floodlight
+1056,Microsoft Advertising
+1056,AppNexus
+1061,Linkedin Ads
+1064,Microsoft Advertising
+1064,Google Ads
+1069,Teads
+1069,Linkedin Ads
+1073,Linkedin Ads
+1075,Google Publisher Tag
+1075,Microsoft Advertising
+1075,DoubleClick for Publishers
+1076,Google Ads
+1076,Microsoft Advertising
+1082,Google Ads
+1090,Twitter Ads
+1090,DoubleClick Floodlight
+1092,Google Ads
+1092,Criteo
+1093,OpenX
+1093,Google Publisher Tag
+1093,Google Ads
+1093,DoubleClick Floodlight
+1093,Criteo
+1093,Prebid
+1093,ID5
+1093,33Across
+1093,Microsoft Advertising
