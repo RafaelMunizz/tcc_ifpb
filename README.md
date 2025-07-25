@@ -34,6 +34,9 @@ O processo de pesquisa foi executado em uma série de etapas automatizadas e man
 │   └── ...                           # (analytics.csv, databases.csv, etc.)
 ├── novos_arquivos_csv_refatorados/   # Arquivos gerados durante o processo de refatoração
 │   └── Tecnologias_Unificadas.csv    # O dataset final e unificado, pronto para o Power BI
+├── Planilhas Google Sheets/          # Planilhas geradas durante coleta de dados
+│   ├── planilha_final.xlsx           # Planilha de coleta com os dados unificados da Exame e Valor Econômico
+│   └── ...                           # Demais planilhas de coleta de dados
 ├── ajustar_setores_valor_para_exame.py
 ├── transferir_libs_para_libraries.py
 ├── unificar_tecnologias_csv.py
