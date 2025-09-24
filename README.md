@@ -11,6 +11,12 @@ Este estudo teve como objetivo mapear e analisar o panorama tecnológico do seto
 
 Os dados foram coletados, tratados e analisados para gerar insights que possam orientar decisões estratégicas de empresas, guiar a formação de novos profissionais e contribuir para a compreensão das tendências tecnológicas no Brasil.
 
+## 🎓 Documento Final (TCC)
+
+O trabalho de conclusão de curso completo, com a fundamentação teórica, metodologia detalhada, análise de resultados e conclusões, está disponível para visualização. Clique no botão abaixo para acessar a versão final em PDF:
+
+[![Acessar TCC Completo](https://img.shields.io/badge/Ler_o_TCC_Completo-PDF-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1uSStsaL_BsVzLvtmgrIvT_zE9hhLf6ow/view?usp=sharing)
+
 ## ⚙️ Pipeline Metodológico
 
 O processo de pesquisa foi executado em uma série de etapas automatizadas e manuais, refletidas na estrutura deste repositório. O fluxo de trabalho pode ser resumido da seguinte forma:
